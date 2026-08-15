@@ -42,7 +42,7 @@
             "last_commit": "2026-08-10T17:54:02Z",
             "owner": "qupath",
             "repo": "qupath",
-            "stars": 1418
+            "stars": 1419
           }
         },
         {
@@ -1402,7 +1402,7 @@
             "last_commit": "2026-08-14T13:55:49Z",
             "owner": "HMCL-dev",
             "repo": "HMCL",
-            "stars": 9848
+            "stars": 9855
           }
         },
         {
@@ -1416,7 +1416,7 @@
             "last_commit": "2026-07-28T10:20:13Z",
             "owner": "Col-E",
             "repo": "Recaf",
-            "stars": 7333
+            "stars": 7336
           }
         },
         {
@@ -1497,7 +1497,7 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-08-13T16:34:50Z",
+            "last_commit": "2026-08-15T16:37:01Z",
             "owner": "mindolph",
             "repo": "Mindolph",
             "stars": 199
@@ -1525,7 +1525,7 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-08-14T20:45:57Z",
+            "last_commit": "2026-08-15T11:59:40Z",
             "owner": "armin-reichert",
             "repo": "pacman-javafx",
             "stars": 121
@@ -1617,7 +1617,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T23:13:21.376Z",
+    "last_updated": "2026-08-15T23:12:10.053Z",
     "original_repository": "mhrimaz/AwesomeJavaFX",
     "original_repository_sha": "c6bba36994a55ef00d2aa6462c6d21cea48cf825",
     "enhanced_repository": "enhansome/enhansome-AwesomeJavaFX",
