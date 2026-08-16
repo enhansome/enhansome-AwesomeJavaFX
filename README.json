@@ -53,10 +53,10 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-08-13T17:20:49Z",
+            "last_commit": "2026-08-16T18:48:54Z",
             "owner": "mkpaz",
             "repo": "atlantafx",
-            "stars": 1387
+            "stars": 1388
           }
         },
         {
@@ -266,7 +266,7 @@
             "last_commit": "2026-06-27T06:09:41Z",
             "owner": "tanhuang2016",
             "repo": "RedisFX",
-            "stars": 519
+            "stars": 520
           }
         },
         {
@@ -1399,10 +1399,10 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-08-14T13:55:49Z",
+            "last_commit": "2026-08-16T13:05:19Z",
             "owner": "HMCL-dev",
             "repo": "HMCL",
-            "stars": 9855
+            "stars": 9860
           }
         },
         {
@@ -1413,10 +1413,10 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-07-28T10:20:13Z",
+            "last_commit": "2026-08-16T01:43:08Z",
             "owner": "Col-E",
             "repo": "Recaf",
-            "stars": 7336
+            "stars": 7338
           }
         },
         {
@@ -1617,7 +1617,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T23:12:10.053Z",
+    "last_updated": "2026-08-16T23:11:42.962Z",
     "original_repository": "mhrimaz/AwesomeJavaFX",
     "original_repository_sha": "c6bba36994a55ef00d2aa6462c6d21cea48cf825",
     "enhanced_repository": "enhansome/enhansome-AwesomeJavaFX",
