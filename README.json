@@ -28,7 +28,7 @@
             "last_commit": "2026-08-09T20:54:11Z",
             "owner": "palexdev",
             "repo": "MaterialFX",
-            "stars": 1435
+            "stars": 1436
           }
         },
         {
@@ -42,7 +42,7 @@
             "last_commit": "2026-08-10T17:54:02Z",
             "owner": "qupath",
             "repo": "qupath",
-            "stars": 1419
+            "stars": 1420
           }
         },
         {
@@ -53,7 +53,7 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-08-16T18:48:54Z",
+            "last_commit": "2026-08-17T07:22:41Z",
             "owner": "mkpaz",
             "repo": "atlantafx",
             "stars": 1388
@@ -70,7 +70,7 @@
             "last_commit": "2025-12-23T13:57:11Z",
             "owner": "FXMisc",
             "repo": "RichTextFX",
-            "stars": 1337
+            "stars": 1338
           }
         },
         {
@@ -1367,10 +1367,10 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2022-01-11T09:16:27Z",
+            "last_commit": "2026-08-17T04:00:06Z",
             "owner": "TangoraBox",
             "repo": "ReactiveDeskFX",
-            "stars": 11
+            "stars": 12
           }
         },
         {
@@ -1399,10 +1399,10 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-08-16T13:05:19Z",
+            "last_commit": "2026-08-17T12:33:58Z",
             "owner": "HMCL-dev",
             "repo": "HMCL",
-            "stars": 9860
+            "stars": 9863
           }
         },
         {
@@ -1413,10 +1413,10 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-08-16T01:43:08Z",
+            "last_commit": "2026-08-17T03:40:34Z",
             "owner": "Col-E",
             "repo": "Recaf",
-            "stars": 7338
+            "stars": 7337
           }
         },
         {
@@ -1511,7 +1511,7 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-08-08T18:42:38Z",
+            "last_commit": "2026-08-17T04:02:49Z",
             "owner": "mirkosertic",
             "repo": "FXDesktopSearch",
             "stars": 185
@@ -1525,7 +1525,7 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-08-15T11:59:40Z",
+            "last_commit": "2026-08-17T21:38:08Z",
             "owner": "armin-reichert",
             "repo": "pacman-javafx",
             "stars": 121
@@ -1598,7 +1598,7 @@
             "last_commit": "2021-05-17T22:14:33Z",
             "owner": "TangoraBox",
             "repo": "ResumeFX",
-            "stars": 7
+            "stars": 8
           }
         },
         {
@@ -1617,7 +1617,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T23:11:42.962Z",
+    "last_updated": "2026-08-17T23:14:30.857Z",
     "original_repository": "mhrimaz/AwesomeJavaFX",
     "original_repository_sha": "c6bba36994a55ef00d2aa6462c6d21cea48cf825",
     "enhanced_repository": "enhansome/enhansome-AwesomeJavaFX",
