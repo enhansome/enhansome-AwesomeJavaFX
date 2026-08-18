@@ -39,10 +39,10 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-08-10T17:54:02Z",
+            "last_commit": "2026-08-18T09:55:19Z",
             "owner": "qupath",
             "repo": "qupath",
-            "stars": 1420
+            "stars": 1422
           }
         },
         {
@@ -53,10 +53,10 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-08-17T07:22:41Z",
+            "last_commit": "2026-08-18T19:43:37Z",
             "owner": "mkpaz",
             "repo": "atlantafx",
-            "stars": 1388
+            "stars": 1389
           }
         },
         {
@@ -1353,7 +1353,7 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-08-10T12:02:03Z",
+            "last_commit": "2026-08-18T14:28:44Z",
             "owner": "techsenger",
             "repo": "shellfx",
             "stars": 35
@@ -1402,7 +1402,7 @@
             "last_commit": "2026-08-17T12:33:58Z",
             "owner": "HMCL-dev",
             "repo": "HMCL",
-            "stars": 9863
+            "stars": 9866
           }
         },
         {
@@ -1430,7 +1430,7 @@
             "last_commit": "2024-01-09T14:17:44Z",
             "owner": "vran-dev",
             "repo": "PrettyZoo",
-            "stars": 3247
+            "stars": 3245
           }
         },
         {
@@ -1469,7 +1469,7 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-08-09T08:07:14Z",
+            "last_commit": "2026-08-18T15:41:29Z",
             "owner": "binjr",
             "repo": "binjr",
             "stars": 368
@@ -1525,7 +1525,7 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-08-17T21:38:08Z",
+            "last_commit": "2026-08-18T20:08:35Z",
             "owner": "armin-reichert",
             "repo": "pacman-javafx",
             "stars": 121
@@ -1617,7 +1617,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T23:14:30.857Z",
+    "last_updated": "2026-08-18T23:13:59.743Z",
     "original_repository": "mhrimaz/AwesomeJavaFX",
     "original_repository_sha": "c6bba36994a55ef00d2aa6462c6d21cea48cf825",
     "enhanced_repository": "enhansome/enhansome-AwesomeJavaFX",
