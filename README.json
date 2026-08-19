@@ -57,7 +57,7 @@
             "archived": false,
             "id": 475717281,
             "language": "Java",
-            "last_commit": "2026-08-19T05:24:22Z",
+            "last_commit": "2026-08-19T14:52:13Z",
             "owner": "mkpaz",
             "repo": "atlantafx",
             "stars": 1389
@@ -192,7 +192,7 @@
             "archived": false,
             "id": 207596279,
             "language": "Java",
-            "last_commit": "2026-08-13T15:40:37Z",
+            "last_commit": "2026-08-19T15:16:28Z",
             "owner": "dlsc-software-consulting-gmbh",
             "repo": "GemsFX",
             "stars": 619
@@ -300,7 +300,7 @@
             "last_commit": "2026-05-29T22:19:09Z",
             "owner": "Typhon0",
             "repo": "AnimateFX",
-            "stars": 515
+            "stars": 516
           }
         },
         {
@@ -1416,7 +1416,7 @@
             "last_commit": "2022-04-30T17:17:49Z",
             "owner": "basilisk-fw",
             "repo": "basilisk",
-            "stars": 62
+            "stars": 61
           }
         },
         {
@@ -1479,10 +1479,10 @@
             "archived": false,
             "id": 37844001,
             "language": "Java",
-            "last_commit": "2026-08-19T11:27:06Z",
+            "last_commit": "2026-08-19T12:29:12Z",
             "owner": "HMCL-dev",
             "repo": "HMCL",
-            "stars": 9870
+            "stars": 9874
           }
         },
         {
@@ -1494,10 +1494,10 @@
             "archived": false,
             "id": 98499283,
             "language": "Java",
-            "last_commit": "2026-08-17T03:40:34Z",
+            "last_commit": "2026-08-19T22:39:47Z",
             "owner": "Col-E",
             "repo": "Recaf",
-            "stars": 7339
+            "stars": 7341
           }
         },
         {
@@ -1614,7 +1614,7 @@
             "archived": false,
             "id": 338516784,
             "language": "Java",
-            "last_commit": "2026-08-19T10:50:51Z",
+            "last_commit": "2026-08-19T20:35:44Z",
             "owner": "armin-reichert",
             "repo": "pacman-javafx",
             "stars": 121
@@ -1700,7 +1700,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:10:29.454Z",
+    "last_updated": "2026-08-19T23:14:52.554Z",
     "original_repository": "mhrimaz/AwesomeJavaFX",
     "original_repository_id": 67946638,
     "original_repository_sha": "c6bba36994a55ef00d2aa6462c6d21cea48cf825",
