@@ -23,8 +23,8 @@ A curated list of awesome JavaFX frameworks, libraries, books etc... .
 
 * [TilesFX](https://github.com/HanSolo/tilesfx) ⭐ 1,520 | 🐛 23 | 🌐 Java | 📅 2024-10-28 - A JavaFX library containing tiles for Dashboards.
 * [MaterialFX](https://github.com/palexdev/MaterialFX) ⭐ 1,436 | 🐛 26 | 🌐 Java | 📅 2026-08-09 - A new well documented and actively developed library which brings material design components to JavaFX and much more.
-* [QuPath](https://github.com/qupath/qupath) ⭐ 1,422 | 🐛 33 | 🌐 Java | 📅 2026-08-18 - Open source software for bioimage analysis.
-* [AtlantaFX](https://github.com/mkpaz/atlantafx) ⭐ 1,389 | 🐛 15 | 🌐 Java | 📅 2026-08-18 - Modern JavaFX CSS theme collection with additional controls.
+* [QuPath](https://github.com/qupath/qupath) ⭐ 1,423 | 🐛 32 | 🌐 Java | 📅 2026-08-19 - Open source software for bioimage analysis.
+* [AtlantaFX](https://github.com/mkpaz/atlantafx) ⭐ 1,389 | 🐛 14 | 🌐 Java | 📅 2026-08-19 - Modern JavaFX CSS theme collection with additional controls.
 * [RichTextFX](https://github.com/TomasMikula/RichTextFX) ⭐ 1,338 | 🐛 110 | 🌐 Java | 📅 2025-12-23 - Rich-text area for JavaFX.
 * [BootstrapFX](https://github.com/aalmiray/bootstrapfx/) ⭐ 1,053 | 🐛 11 | 🌐 Java | 📅 2021-05-06 - BootstrapFX is a partial port of Twitter Bootstrap for JavaFX.
 * [TestFX](https://github.com/TestFX/TestFX) ⭐ 976 | 🐛 159 | 🌐 Java | 📅 2024-02-12 - Simple and clean testing for JavaFX.
@@ -39,7 +39,7 @@ A curated list of awesome JavaFX frameworks, libraries, books etc... .
 * [Ikonli](https://github.com/kordamp/ikonli) ⭐ 594 | 🐛 24 | 🌐 Java | 📅 2025-04-19 - Ikonli provides icon packs that can be used in Java applications. Currently Swing and JavaFX UI toolkits are supported.
 * [Getdown](https://github.com/threerings/getdown) ⭐ 529 | 🐛 49 | 🌐 Java | 📅 2026-05-12 - Getdown is a system for deploying Java applications to end-user computers, as well as keeping those applications up to date.
 * [RxJavaFX: JavaFX bindings for RxJava](https://github.com/ReactiveX/RxJavaFX) ⭐ 526 | 🐛 18 | 🌐 Java | 📅 2021-09-09 - RxJavaFX is a simple API to convert JavaFX events into RxJava Observables and vice versa. It also has a scheduler to safely move emissions to the JavaFX Event Dispatch Thread.
-* [RedisDesktopManagerFX](https://github.com/tanhuang2016/RedisDesktopManagerFX) ⭐ 520 | 🐛 3 | 🌐 Java | 📅 2026-06-27 - RedisDesktopManagerFX is a simple Redis GUI created by JavaFX.
+* [RedisDesktopManagerFX](https://github.com/tanhuang2016/RedisDesktopManagerFX) ⭐ 519 | 🐛 3 | 🌐 Java | 📅 2026-06-27 - RedisDesktopManagerFX is a simple Redis GUI created by JavaFX.
 * [AnimateFX](https://github.com/Typhon0/AnimateFX) ⭐ 515 | 🐛 1 | 🌐 Java | 📅 2026-05-29 - A JavaFX library containing ready-to-use animations.
 * [Maven jpackage Template](https://github.com/wiverson/maven-jpackage-template) ⭐ 388 | 🐛 10 | 🌐 Java | 📅 2022-10-11 - GitHub template. Use Maven, jlink and jpackage to produce JavaFX macOS, Windows and Linux installers via GitHub Actions.
 * [ReactFX](https://github.com/TomasMikula/ReactFX) ⭐ 381 | 🐛 25 | 🌐 Java | 📅 2025-08-07 - Reactive event streams, observable values and more for JavaFX.
@@ -134,7 +134,7 @@ A curated list of awesome JavaFX frameworks, libraries, books etc... .
 ## Frameworks
 
 * [TornadoFX](https://github.com/edvin/tornadofx) ⚠️ Archived - Lightweight JavaFX Framework for Kotlin.
-* [cljfx](https://github.com/cljfx/cljfx) ⭐ 1,099 | 🐛 37 | 🌐 Clojure | 📅 2026-07-12 - Lightweight JavaFX Framework for Clojure
+* [cljfx](https://github.com/cljfx/cljfx) ⭐ 1,100 | 🐛 37 | 🌐 Clojure | 📅 2026-07-12 - Lightweight JavaFX Framework for Clojure
 * [mvvmFX](https://github.com/sialcasa/mvvmFX) ⭐ 525 | 🐛 97 | 🌐 Java | 📅 2023-07-04 - mvvm(fx) is an application framework which provides you necessary components to implement the MVVM pattern with JavaFX. [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0).
 * [WorkbenchFX](https://github.com/dlemmermann/WorkbenchFX) ⭐ 503 | 🐛 17 | 🌐 Java | 📅 2026-08-13 - A lightweight RCP framework for JavaFX applications.
 * [SpringBoot-JavaFX-Support](https://github.com/roskenet/springboot-javafx-support) ⭐ 430 | 🐛 31 | 🌐 Java | 📅 2025-07-08 - Dependency Injection Support for JavaFX with Spring.
@@ -294,16 +294,16 @@ A curated list of awesome JavaFX frameworks, libraries, books etc... .
 
 *Real World Examples of JavaFX and Applications*
 
-* [Hello Minecraft! Launcher](https://github.com/huanghongxun/HMCL) ⭐ 9,866 | 🐛 515 | 🌐 Java | 📅 2026-08-17 - HMCL (Hello Minecraft! Launcher) is a cross-platform Minecraft launcher which supports Mod management, game customizing, auto installing (Forge, LiteLoader and OptiFine), modpack creating, UI customizing and so on. HMCL was developed based on Swing and migrated to JavaFX in v3.
-* [Recaf](https://github.com/Col-E/Recaf) ⭐ 7,337 | 🐛 67 | 🌐 Java | 📅 2026-08-17 - An easy to use modern Java bytecode editor.
+* [Hello Minecraft! Launcher](https://github.com/huanghongxun/HMCL) ⭐ 9,870 | 🐛 515 | 🌐 Java | 📅 2026-08-19 - HMCL (Hello Minecraft! Launcher) is a cross-platform Minecraft launcher which supports Mod management, game customizing, auto installing (Forge, LiteLoader and OptiFine), modpack creating, UI customizing and so on. HMCL was developed based on Swing and migrated to JavaFX in v3.
+* [Recaf](https://github.com/Col-E/Recaf) ⭐ 7,339 | 🐛 67 | 🌐 Java | 📅 2026-08-17 - An easy to use modern Java bytecode editor.
 * [PrettyZoo](https://github.com/vran-dev/PrettyZoo) ⚠️ Archived - Pretty nice Zookeeper GUI created by JavaFX & Apache Curator
 * [Everest](https://github.com/RohitAwate/Everest) ⭐ 825 | 🐛 8 | 🌐 Java | 📅 2022-11-16 - Everest (formerly RESTaurant) is an upcoming REST API testing client written in JavaFX. Looks like Postman but writen in Java.
 * [XR3Player](https://github.com/goxr3plus/XR3Player) ⭐ 771 | 🐛 29 | 🌐 Java | 📅 2025-04-28 - XR3Player is an opensource Java/JavaFX Media Player, WebBrowser, Media File Organizer, aiming to be something more than a Media Player.
 * [binjr](https://github.com/binjr/binjr) ⭐ 368 | 🐛 10 | 🌐 Java | 📅 2026-08-18 - binjr is a time series data browser; it renders time series data produced by other applications as dynamically editable charts and provides many features to navigate through the data in a natural and fluent fashion (drag & drop, zoom, history, detacheable tabs, advanced time-range picker).
-* [FX2048](https://github.com/brunoborges/fx2048) ⭐ 293 | 🐛 4 | 🌐 Java | 📅 2026-08-13 - The game 2048 built using JavaFX and Java 11.
+* [FX2048](https://github.com/brunoborges/fx2048) ⭐ 293 | 🐛 4 | 🌐 Java | 📅 2026-08-19 - The game 2048 built using JavaFX and Java 11.
 * [Mindolph](https://github.com/mindolph/Mindolph) ⭐ 199 | 🐛 5 | 🌐 Java | 📅 2026-08-15 - Mindolph is an open source personal knowledge management software for all desktop platforms. It is also a mind map editor, which is probably the best mind map tool developed by JavaFX.
 * [FXDesktopSearch](https://github.com/mirkosertic/FXDesktopSearch) ⭐ 185 | 🐛 13 | 🌐 Java | 📅 2026-08-17 - FXDesktopSearch is a Java and JavaFX based Desktop Search Application. It crawls a configured set of directories and allows you to do fulltext search with different languages support on the content.
-* [PacManFX](https://github.com/armin-reichert/pacman-javafx) ⭐ 121 | 🐛 5 | 🌐 Java | 📅 2026-08-18 - A JavaFX UI (2D + 3D) for Pac-Man and Ms. Pac-Man.
+* [PacManFX](https://github.com/armin-reichert/pacman-javafx) ⭐ 121 | 🐛 5 | 🌐 Java | 📅 2026-08-19 - A JavaFX UI (2D + 3D) for Pac-Man and Ms. Pac-Man.
 * [JStackFX](https://github.com/twasyl/jstackfx) ⭐ 89 | 🐛 1 | 🌐 Java | 📅 2017-01-02 - It is not an easy task to analyse thread dumps as files generated by the jstack tool provides raw text files. JStackFX will help you to do that with a nice FX GUI.
 * [Boomega](https://github.com/Dansoftowner/Boomega) ⭐ 85 | 🐛 54 | 🌐 Kotlin | 📅 2022-06-17 - A modern book explorer & catalog application
 * [Bounding Box Editor](https://github.com/mfl28/BoundingBoxEditor) ⭐ 57 | 🐛 0 | 🌐 Java | 📅 2025-03-15 - A multi-platform JavaFX image annotation application to create and edit ground-truth labels for object detection and segmentation machine learning models.
@@ -329,4 +329,4 @@ Contributions are always welcome!
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-18._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-19._
