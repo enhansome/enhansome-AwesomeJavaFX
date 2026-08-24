@@ -45,7 +45,7 @@
             "last_commit": "2026-08-22T14:43:48Z",
             "owner": "qupath",
             "repo": "qupath",
-            "stars": 1428
+            "stars": 1429
           }
         },
         {
@@ -192,7 +192,7 @@
             "archived": false,
             "id": 207596279,
             "language": "Java",
-            "last_commit": "2026-08-24T12:56:13Z",
+            "last_commit": "2026-08-24T16:15:54Z",
             "owner": "dlsc-software-consulting-gmbh",
             "repo": "GemsFX",
             "stars": 620
@@ -255,7 +255,7 @@
             "last_commit": "2026-05-12T19:50:10Z",
             "owner": "threerings",
             "repo": "getdown",
-            "stars": 529
+            "stars": 528
           }
         },
         {
@@ -510,7 +510,7 @@
             "last_commit": "2023-10-28T14:22:07Z",
             "owner": "iamgio",
             "repo": "animated",
-            "stars": 191
+            "stars": 192
           }
         },
         {
@@ -1443,7 +1443,7 @@
             "archived": false,
             "id": 936262459,
             "language": "Java",
-            "last_commit": "2026-08-23T21:57:03Z",
+            "last_commit": "2026-08-24T19:36:21Z",
             "owner": "techsenger",
             "repo": "shellfx",
             "stars": 35
@@ -1482,7 +1482,7 @@
             "last_commit": "2026-08-23T12:17:34Z",
             "owner": "HMCL-dev",
             "repo": "HMCL",
-            "stars": 9915
+            "stars": 9916
           }
         },
         {
@@ -1614,7 +1614,7 @@
             "archived": false,
             "id": 338516784,
             "language": "Java",
-            "last_commit": "2026-08-24T13:05:24Z",
+            "last_commit": "2026-08-24T18:46:14Z",
             "owner": "armin-reichert",
             "repo": "pacman-javafx",
             "stars": 121
@@ -1700,7 +1700,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T13:59:10.486Z",
+    "last_updated": "2026-08-24T23:15:37.869Z",
     "original_repository": "mhrimaz/AwesomeJavaFX",
     "original_repository_id": 67946638,
     "original_repository_sha": "c6bba36994a55ef00d2aa6462c6d21cea48cf825",
