@@ -210,7 +210,7 @@
             "last_commit": "2026-03-17T15:08:18Z",
             "owner": "fair-acc",
             "repo": "chart-fx",
-            "stars": 612
+            "stars": 613
           }
         },
         {
@@ -1281,7 +1281,7 @@
             "last_commit": "2023-04-13T05:12:47Z",
             "owner": "edvin",
             "repo": "tornadofx",
-            "stars": 3631
+            "stars": 3632
           }
         },
         {
@@ -1479,10 +1479,10 @@
             "archived": false,
             "id": 37844001,
             "language": "Java",
-            "last_commit": "2026-08-23T12:17:34Z",
+            "last_commit": "2026-08-25T13:53:38Z",
             "owner": "HMCL-dev",
             "repo": "HMCL",
-            "stars": 9917
+            "stars": 9926
           }
         },
         {
@@ -1497,7 +1497,7 @@
             "last_commit": "2026-08-22T01:53:52Z",
             "owner": "Col-E",
             "repo": "Recaf",
-            "stars": 7351
+            "stars": 7353
           }
         },
         {
@@ -1614,7 +1614,7 @@
             "archived": false,
             "id": 338516784,
             "language": "Java",
-            "last_commit": "2026-08-25T05:12:27Z",
+            "last_commit": "2026-08-25T20:29:53Z",
             "owner": "armin-reichert",
             "repo": "pacman-javafx",
             "stars": 121
@@ -1700,7 +1700,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T05:51:52.017Z",
+    "last_updated": "2026-08-25T23:17:45.172Z",
     "original_repository": "mhrimaz/AwesomeJavaFX",
     "original_repository_id": 67946638,
     "original_repository_sha": "c6bba36994a55ef00d2aa6462c6d21cea48cf825",
