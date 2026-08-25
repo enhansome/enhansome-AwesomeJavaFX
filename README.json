@@ -1482,7 +1482,7 @@
             "last_commit": "2026-08-23T12:17:34Z",
             "owner": "HMCL-dev",
             "repo": "HMCL",
-            "stars": 9916
+            "stars": 9917
           }
         },
         {
@@ -1497,7 +1497,7 @@
             "last_commit": "2026-08-22T01:53:52Z",
             "owner": "Col-E",
             "repo": "Recaf",
-            "stars": 7349
+            "stars": 7351
           }
         },
         {
@@ -1614,7 +1614,7 @@
             "archived": false,
             "id": 338516784,
             "language": "Java",
-            "last_commit": "2026-08-24T18:46:14Z",
+            "last_commit": "2026-08-25T05:12:27Z",
             "owner": "armin-reichert",
             "repo": "pacman-javafx",
             "stars": 121
@@ -1700,7 +1700,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T23:15:37.869Z",
+    "last_updated": "2026-08-25T05:51:52.017Z",
     "original_repository": "mhrimaz/AwesomeJavaFX",
     "original_repository_id": 67946638,
     "original_repository_sha": "c6bba36994a55ef00d2aa6462c6d21cea48cf825",
