@@ -192,7 +192,7 @@
             "archived": false,
             "id": 207596279,
             "language": "Java",
-            "last_commit": "2026-08-26T15:27:39Z",
+            "last_commit": "2026-08-27T10:24:25Z",
             "owner": "dlsc-software-consulting-gmbh",
             "repo": "GemsFX",
             "stars": 620
@@ -477,7 +477,7 @@
             "archived": false,
             "id": 27490105,
             "language": "Java",
-            "last_commit": "2026-08-27T02:14:37Z",
+            "last_commit": "2026-08-27T06:03:08Z",
             "owner": "eckig",
             "repo": "graph-editor",
             "stars": 201
@@ -1482,7 +1482,7 @@
             "last_commit": "2026-08-26T13:47:28Z",
             "owner": "HMCL-dev",
             "repo": "HMCL",
-            "stars": 9933
+            "stars": 9932
           }
         },
         {
@@ -1614,7 +1614,7 @@
             "archived": false,
             "id": 338516784,
             "language": "Java",
-            "last_commit": "2026-08-27T04:05:06Z",
+            "last_commit": "2026-08-27T08:49:06Z",
             "owner": "armin-reichert",
             "repo": "pacman-javafx",
             "stars": 121
@@ -1700,9 +1700,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T04:09:17.367Z",
-    "original_repository": "mhrimaz/AwesomeJavaFX",
-    "original_repository_id": 67946638,
+    "last_updated": "2026-08-27T11:28:54.463Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 67946638,
+      "language": null,
+      "last_commit": "2026-07-07T19:50:39Z",
+      "owner": "mhrimaz",
+      "repo": "AwesomeJavaFX",
+      "stars": 3366
+    },
     "original_repository_sha": "c6bba36994a55ef00d2aa6462c6d21cea48cf825",
     "enhanced_repository": "enhansome/enhansome-AwesomeJavaFX",
     "enhanced_repository_description": null,
