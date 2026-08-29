@@ -10,12 +10,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A JavaFX library containing tiles that can be used for dashboards.",
+            "homepage": null,
             "id": 77048353,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2024-10-28T09:46:55Z",
+            "open_issues": 23,
             "owner": "HanSolo",
             "repo": "tilesfx",
-            "stars": 1519
+            "stars": 1519,
+            "topics": [
+              "dashboards",
+              "java",
+              "javafx",
+              "javafx-components",
+              "javafx-library"
+            ]
           },
           "first_seen": "2026-08-28T06:26:18.132Z"
         },
@@ -26,12 +37,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A library of material components for JavaFX",
+            "homepage": null,
             "id": 304470748,
             "language": "Java",
+            "license": "LGPL-3.0",
             "last_commit": "2026-08-09T20:54:11Z",
+            "open_issues": 26,
             "owner": "palexdev",
             "repo": "MaterialFX",
-            "stars": 1438
+            "stars": 1438,
+            "topics": [
+              "java",
+              "javafx",
+              "library",
+              "ui"
+            ]
           },
           "first_seen": "2026-08-28T06:26:18.132Z"
         },
@@ -42,12 +63,34 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "QuPath - Open-source bioimage analysis for research",
+            "homepage": "https://qupath.github.io",
             "id": 66772740,
             "language": "Java",
+            "license": "GPL-3.0",
             "last_commit": "2026-08-22T14:43:48Z",
+            "open_issues": 34,
             "owner": "qupath",
             "repo": "qupath",
-            "stars": 1429
+            "stars": 1430,
+            "topics": [
+              "bioimage-analysis",
+              "bioimage-informatics",
+              "cell-analysis",
+              "cell-segmentation",
+              "computational-pathology",
+              "digital-pathology",
+              "groovy",
+              "histology",
+              "image-processing",
+              "imagej",
+              "javafx",
+              "machine-learning",
+              "opencv",
+              "pathology",
+              "tissue-microarray-analysis",
+              "whole-slide-imaging"
+            ]
           },
           "first_seen": "2026-08-28T06:26:18.132Z"
         },
@@ -58,12 +101,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Modern JavaFX CSS theme collection with additional controls.",
+            "homepage": "https://mkpaz.github.io/atlantafx",
             "id": 475717281,
             "language": "Java",
+            "license": "MIT",
             "last_commit": "2026-08-23T14:10:09Z",
+            "open_issues": 16,
             "owner": "mkpaz",
             "repo": "atlantafx",
-            "stars": 1397
+            "stars": 1397,
+            "topics": [
+              "controls",
+              "css",
+              "gui",
+              "javafx",
+              "library",
+              "theme"
+            ]
           },
           "first_seen": "2026-08-28T06:26:18.132Z"
         },
@@ -74,12 +129,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Rich-text area for JavaFX",
+            "homepage": null,
             "id": 13272929,
             "language": "Java",
+            "license": "BSD-2-Clause",
             "last_commit": "2025-12-23T13:57:11Z",
+            "open_issues": 110,
             "owner": "FXMisc",
             "repo": "RichTextFX",
-            "stars": 1341
+            "stars": 1341,
+            "topics": [
+              "java",
+              "javafx",
+              "rich-text-editor"
+            ]
           },
           "first_seen": "2026-08-28T06:26:18.132Z"
         },
@@ -90,12 +154,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "BootstrapFX: Bootstrap for JavaFX",
+            "homepage": null,
             "id": 42141501,
             "language": "Java",
+            "license": "MIT",
             "last_commit": "2021-05-06T21:43:19Z",
+            "open_issues": 11,
             "owner": "kordamp",
             "repo": "bootstrapfx",
-            "stars": 1053
+            "stars": 1053,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:26:18.132Z"
         },
@@ -106,12 +175,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Simple and clean testing for JavaFX.",
+            "homepage": null,
             "id": 11424225,
             "language": "Java",
+            "license": "NOASSERTION",
             "last_commit": "2024-02-12T00:09:38Z",
+            "open_issues": 159,
             "owner": "TestFX",
             "repo": "TestFX",
-            "stars": 976
+            "stars": 976,
+            "topics": [
+              "javafx",
+              "testfx"
+            ]
           },
           "first_seen": "2026-08-28T06:26:18.132Z"
         },
@@ -122,12 +199,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Java framework for creating sophisticated calendar views (JavaFX 8, 9, 10, and 11)",
+            "homepage": "http://www.dlsc.com",
             "id": 107559907,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2026-07-17T15:23:30Z",
+            "open_issues": 21,
             "owner": "dlsc-software-consulting-gmbh",
             "repo": "CalendarFX",
-            "stars": 861
+            "stars": 861,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:26:18.132Z"
         },
@@ -138,12 +220,30 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Create your own auto-update framework",
+            "homepage": null,
             "id": 124780056,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2024-03-18T16:22:52Z",
+            "open_issues": 0,
             "owner": "update4j",
             "repo": "update4j",
-            "stars": 811
+            "stars": 811,
+            "topics": [
+              "auto",
+              "auto-update",
+              "download",
+              "downloader",
+              "dynamic",
+              "dynamically",
+              "java",
+              "launch",
+              "launcher",
+              "update",
+              "updater",
+              "webstart"
+            ]
           },
           "first_seen": "2026-08-28T06:26:18.132Z"
         },
@@ -154,12 +254,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A JavaFX library for Gauges",
+            "homepage": null,
             "id": 49255967,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2024-08-21T09:34:28Z",
+            "open_issues": 36,
             "owner": "HanSolo",
             "repo": "medusa",
-            "stars": 740
+            "stars": 740,
+            "topics": [
+              "javafx",
+              "javafx-components",
+              "javafx-library"
+            ]
           },
           "first_seen": "2026-08-28T06:26:18.132Z"
         },
@@ -170,12 +279,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Auto updating launcher for JavaFX Applications",
+            "homepage": null,
             "id": 50748074,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2021-01-10T19:07:12Z",
+            "open_issues": 56,
             "owner": "edvin",
             "repo": "fxlauncher",
-            "stars": 730
+            "stars": 730,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:26:18.132Z"
         },
@@ -186,12 +300,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A framework for easily creating forms for a JavaFX UI.",
+            "homepage": null,
             "id": 103286363,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2026-03-09T09:14:25Z",
+            "open_issues": 22,
             "owner": "dlsc-software-consulting-gmbh",
             "repo": "FormsFX",
-            "stars": 705
+            "stars": 705,
+            "topics": [
+              "desktop",
+              "forms",
+              "javafx",
+              "ui",
+              "ui-components"
+            ]
           },
           "first_seen": "2026-08-28T06:26:18.132Z"
         },
@@ -202,12 +327,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A collection of JavaFX controls and utilities.",
+            "homepage": null,
             "id": 207596279,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-27T12:05:08Z",
+            "open_issues": 1,
             "owner": "dlsc-software-consulting-gmbh",
             "repo": "GemsFX",
-            "stars": 620
+            "stars": 620,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:26:18.132Z"
         },
@@ -218,12 +348,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A scientific charting library focused on performance optimised real-time data visualisation at 25 Hz update rates for data sets with a few 10 thousand up to 5 million data points.",
+            "homepage": null,
             "id": 185394887,
             "language": "Java",
+            "license": "LGPL-3.0",
             "last_commit": "2026-03-17T15:08:18Z",
+            "open_issues": 29,
             "owner": "fair-acc",
             "repo": "chart-fx",
-            "stars": 613
+            "stars": 613,
+            "topics": [
+              "chart-fx",
+              "charting-libraries",
+              "data-visualisation",
+              "hacktoberfest",
+              "java",
+              "javafx",
+              "large-dataset",
+              "scientific-visualization"
+            ]
           },
           "first_seen": "2026-08-28T06:26:18.132Z"
         },
@@ -234,12 +378,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A framework for easily creating a UI for application settings / preferences.",
+            "homepage": null,
             "id": 128030682,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2026-04-10T23:53:40Z",
+            "open_issues": 37,
             "owner": "dlsc-software-consulting-gmbh",
             "repo": "PreferencesFX",
-            "stars": 606
+            "stars": 606,
+            "topics": [
+              "component",
+              "framework",
+              "javafx",
+              "preferences",
+              "ui"
+            ]
           },
           "first_seen": "2026-08-28T06:26:18.132Z"
         },
@@ -250,12 +405,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Icon packs for Java applications",
+            "homepage": "http://kordamp.org/ikonli/",
             "id": 49275911,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2025-04-19T13:22:20Z",
+            "open_issues": 24,
             "owner": "kordamp",
             "repo": "ikonli",
-            "stars": 594
+            "stars": 594,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:26:18.132Z"
         },
@@ -266,12 +426,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Download, Install, Update",
+            "homepage": null,
             "id": 12544638,
             "language": "Java",
+            "license": "NOASSERTION",
             "last_commit": "2026-05-12T19:50:10Z",
+            "open_issues": 49,
             "owner": "threerings",
             "repo": "getdown",
-            "stars": 528
+            "stars": 528,
+            "topics": [
+              "application",
+              "install",
+              "java"
+            ]
           },
           "first_seen": "2026-08-28T06:26:18.132Z"
         },
@@ -282,12 +451,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "RxJava bindings for JavaFX",
+            "homepage": null,
             "id": 23095976,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2021-09-09T01:55:23Z",
+            "open_issues": 18,
             "owner": "ReactiveX",
             "repo": "RxJavaFX",
-            "stars": 526
+            "stars": 526,
+            "topics": [
+              "java",
+              "javafx",
+              "reactivex",
+              "rxjava"
+            ]
           },
           "first_seen": "2026-08-28T06:26:18.132Z"
         },
@@ -298,12 +477,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🚀 Lightweight Redis GUI 🌐Full platform support🔥为爱发电💞",
+            "homepage": "https://redisfx.tanh.site",
             "id": 666209560,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2026-06-27T06:09:41Z",
+            "open_issues": 3,
             "owner": "tanhuang2016",
             "repo": "RedisFX",
-            "stars": 520
+            "stars": 520,
+            "topics": [
+              "gui",
+              "java",
+              "javafx",
+              "jedis",
+              "redis",
+              "redis-client",
+              "redis-gui"
+            ]
           },
           "first_seen": "2026-08-28T06:26:18.132Z"
         },
@@ -314,12 +506,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A library of +70 ready-to-use animations for JavaFX",
+            "homepage": null,
             "id": 109805897,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2026-05-29T22:19:09Z",
+            "open_issues": 1,
             "owner": "Typhon0",
             "repo": "AnimateFX",
-            "stars": 517
+            "stars": 517,
+            "topics": [
+              "animated",
+              "animation",
+              "awesome",
+              "gradle",
+              "java",
+              "java-library",
+              "javafx",
+              "library",
+              "ui",
+              "ui-design"
+            ]
           },
           "first_seen": "2026-08-28T06:26:18.132Z"
         },
@@ -330,12 +538,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Sample project illustrating building nice, small cross-platform JavaFX or Swing desktop apps with native installers while still using the standard Maven dependency system.",
+            "homepage": null,
             "id": 307010251,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2022-10-11T17:46:09Z",
+            "open_issues": 10,
             "owner": "wiverson",
             "repo": "maven-jpackage-template",
-            "stars": 388
+            "stars": 388,
+            "topics": [
+              "cross-platform-javafx",
+              "java",
+              "javafx",
+              "javafx-application",
+              "javafx-desktop-apps",
+              "jpackage",
+              "macos",
+              "maven",
+              "native-installers"
+            ]
           },
           "first_seen": "2026-08-28T06:26:18.132Z"
         },
@@ -346,12 +569,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Reactive event streams, observable values and more for JavaFX.",
+            "homepage": null,
             "id": 15197084,
             "language": "Java",
+            "license": "BSD-2-Clause",
             "last_commit": "2025-08-07T22:12:07Z",
+            "open_issues": 25,
             "owner": "TomasMikula",
             "repo": "ReactFX",
-            "stars": 382
+            "stars": 382,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:26:18.132Z"
         },
@@ -362,12 +590,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Tray Icon implementation for JavaFX applications. Say goodbye to using AWT's SystemTray icon, instead use a JavaFX Tray Icon.",
+            "homepage": null,
             "id": 289370092,
             "language": "Java",
+            "license": "MIT",
             "last_commit": "2026-07-09T18:31:26Z",
+            "open_issues": 1,
             "owner": "dustinkredmond",
             "repo": "FXTrayIcon",
-            "stars": 369
+            "stars": 369,
+            "topics": [
+              "awt",
+              "awt-menuitems",
+              "javafx",
+              "javafx-applications",
+              "javafx-menuitems",
+              "javafxtrayicon",
+              "systemtray",
+              "tray-icon",
+              "trayicon"
+            ]
           },
           "first_seen": "2026-08-28T06:26:18.132Z"
         },
@@ -378,12 +621,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Flow Visualization Library for JavaFX and VRL-Studio",
+            "homepage": "http://vworkflows.mihosoft.eu",
             "id": 6278839,
             "language": "Java",
+            "license": "NOASSERTION",
             "last_commit": "2022-07-17T14:39:30Z",
+            "open_issues": 18,
             "owner": "miho",
             "repo": "VWorkflows",
-            "stars": 306
+            "stars": 306,
+            "topics": [
+              "flow",
+              "flow-based-programming",
+              "graph",
+              "java",
+              "javafx",
+              "programming",
+              "visual",
+              "visualization",
+              "vrl",
+              "vrl-studio"
+            ]
           },
           "first_seen": "2026-08-28T06:26:18.132Z"
         },
@@ -394,12 +653,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Ribbon control for Java, created in JavaFX",
+            "homepage": "http://www.pixelduke.com/fxribbon",
             "id": 22584332,
             "language": "Java",
+            "license": null,
             "last_commit": "2021-02-20T14:09:29Z",
+            "open_issues": 11,
             "owner": "dukke",
             "repo": "FXRibbon",
-            "stars": 265
+            "stars": 265,
+            "topics": [
+              "consultant",
+              "freelancer",
+              "java",
+              "javafx",
+              "javafx-library",
+              "ribbon"
+            ]
           },
           "first_seen": "2026-08-28T06:26:18.132Z"
         },
@@ -410,12 +681,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A form validation library for JavaFX",
+            "homepage": null,
             "id": 226801085,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2026-06-29T11:46:31Z",
+            "open_issues": 2,
             "owner": "effad",
             "repo": "ValidatorFX",
-            "stars": 253
+            "stars": 253,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:26:18.132Z"
         },
@@ -426,12 +702,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Dynamic JavaFX form generation",
+            "homepage": "http://dooapp.github.com/FXForm2",
             "id": 1839196,
             "language": "Java",
+            "license": null,
             "last_commit": "2026-06-30T05:23:11Z",
+            "open_issues": 13,
             "owner": "dooApp",
             "repo": "FXForm2",
-            "stars": 232
+            "stars": 232,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:26:18.132Z"
         },
@@ -442,12 +723,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A JavaFX library that allows Java2D code (Graphics2D) to be used to draw to a Canvas node.",
+            "homepage": "http://www.jfree.org/fxgraphics2d",
             "id": 19496510,
             "language": "Java",
+            "license": "NOASSERTION",
             "last_commit": "2025-05-31T06:10:29Z",
+            "open_issues": 1,
             "owner": "jfree",
             "repo": "fxgraphics2d",
-            "stars": 214
+            "stars": 214,
+            "topics": [
+              "java2d",
+              "javafx",
+              "javafx-library"
+            ]
           },
           "first_seen": "2026-08-28T06:26:18.132Z"
         },
@@ -458,12 +748,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Docking framework for JavaFX platform",
+            "homepage": null,
             "id": 48653718,
             "language": "Java",
+            "license": "LGPL-3.0",
             "last_commit": "2019-01-24T09:04:14Z",
+            "open_issues": 23,
             "owner": "alexbodogit",
             "repo": "AnchorFX",
-            "stars": 210
+            "stars": 210,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:26:18.132Z"
         },
@@ -474,12 +769,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A JavaFX UI framework to create fully customized undecorated windows",
+            "homepage": null,
             "id": 124767703,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2021-10-17T16:35:57Z",
+            "open_issues": 8,
             "owner": "Oshan96",
             "repo": "CustomStage",
-            "stars": 206
+            "stars": 206,
+            "topics": [
+              "api",
+              "customstage",
+              "framework",
+              "java",
+              "javafx",
+              "javafx-frameworks",
+              "javafx-library",
+              "jitpack",
+              "stage",
+              "tool",
+              "undecorated-stage",
+              "undecorator",
+              "wiki"
+            ]
           },
           "first_seen": "2026-08-28T06:26:18.132Z"
         },
@@ -490,12 +804,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Efficient VirtualFlow for JavaFX",
+            "homepage": null,
             "id": 21519278,
             "language": "Java",
+            "license": "BSD-2-Clause",
             "last_commit": "2025-08-15T14:09:59Z",
+            "open_issues": 22,
             "owner": "FXMisc",
             "repo": "Flowless",
-            "stars": 206
+            "stars": 206,
+            "topics": [
+              "javafx",
+              "viewport"
+            ]
           },
           "first_seen": "2026-08-28T06:26:18.132Z"
         },
@@ -506,12 +828,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A library for creating and editing graph-like diagrams in JavaFX.",
+            "homepage": null,
             "id": 27490105,
             "language": "Java",
+            "license": "EPL-1.0",
             "last_commit": "2026-08-28T05:40:57Z",
+            "open_issues": 0,
             "owner": "eckig",
             "repo": "graph-editor",
-            "stars": 201
+            "stars": 201,
+            "topics": [
+              "editor",
+              "emf",
+              "graph",
+              "java",
+              "javafx",
+              "visualization"
+            ]
           },
           "first_seen": "2026-08-28T06:26:18.132Z"
         },
@@ -522,12 +856,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Java implementation of BSP based CSG (Constructive Solid Geometry)",
+            "homepage": null,
             "id": 17588440,
             "language": "Java",
+            "license": "NOASSERTION",
             "last_commit": "2023-06-03T20:17:46Z",
+            "open_issues": 23,
             "owner": "miho",
             "repo": "JCSG",
-            "stars": 197
+            "stars": 197,
+            "topics": [
+              "cad",
+              "constructive-solid-geometries",
+              "csg",
+              "geometry-library",
+              "java",
+              "javafx",
+              "javafx-library",
+              "jcsg",
+              "vrl"
+            ]
           },
           "first_seen": "2026-08-28T06:26:18.132Z"
         },
@@ -538,12 +887,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":ocean: Modern animation library for JavaFX.",
+            "homepage": null,
             "id": 358350360,
             "language": "Java",
+            "license": "MIT",
             "last_commit": "2023-10-28T14:22:07Z",
+            "open_issues": 1,
             "owner": "iamgio",
             "repo": "animated",
-            "stars": 192
+            "stars": 192,
+            "topics": [
+              "animated-javafx",
+              "animation",
+              "animation-library",
+              "animations",
+              "implicit-animations",
+              "javafx",
+              "javafx-animation",
+              "javafx-animation-library",
+              "javafx-library",
+              "transitions"
+            ]
           },
           "first_seen": "2026-08-28T06:26:18.132Z"
         },
@@ -554,12 +919,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Allow runtime modification of JavaFX CSS",
+            "homepage": null,
             "id": 26185029,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2023-03-16T12:53:08Z",
+            "open_issues": 10,
             "owner": "McFoggy",
             "repo": "cssfx",
-            "stars": 176
+            "stars": 176,
+            "topics": [
+              "css",
+              "css-changes",
+              "hot-reload",
+              "hot-reloading",
+              "java",
+              "javafx"
+            ]
           },
           "first_seen": "2026-08-28T06:26:18.132Z"
         },
@@ -570,12 +947,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "💠 Undecorated JavaFX Scene with implemented move, resize, minimise, maximise, close and Windows Aero Snap controls.",
+            "homepage": null,
             "id": 109039812,
             "language": "CSS",
+            "license": null,
             "last_commit": "2023-11-17T05:15:42Z",
+            "open_issues": 11,
             "owner": "goxr3plus",
             "repo": "FX-BorderlessScene",
-            "stars": 153
+            "stars": 153,
+            "topics": [
+              "aero-snap",
+              "close",
+              "javafx-undecorated-window",
+              "linux",
+              "mac",
+              "maximize",
+              "minimize",
+              "windows"
+            ]
           },
           "first_seen": "2026-08-28T06:26:18.132Z"
         },
@@ -586,12 +977,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":package: Actlist is a utility platform to execute your own action list easily and simply.",
+            "homepage": "https://actlist.io",
             "id": 76278143,
             "language": "Java",
+            "license": "LGPL-3.0",
             "last_commit": "2023-12-17T15:49:34Z",
+            "open_issues": 2,
             "owner": "actlist",
             "repo": "actlist",
-            "stars": 152
+            "stars": 152,
+            "topics": [
+              "desktop",
+              "desktop-application",
+              "java",
+              "javafx",
+              "javafx-application",
+              "javafx-desktop-apps",
+              "javafx-frameworks",
+              "platform",
+              "utilities",
+              "utility"
+            ]
           },
           "first_seen": "2026-08-28T06:26:18.132Z"
         },
@@ -602,12 +1009,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 449081774,
             "language": "Java",
+            "license": "GPL-3.0",
             "last_commit": "2026-03-16T19:17:06Z",
+            "open_issues": 61,
             "owner": "gluonhq",
             "repo": "rich-text-area",
-            "stars": 137
+            "stars": 137,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:26:18.132Z"
         },
@@ -618,12 +1030,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A 3D chart library for Java applications (JavaFX, Swing or server-side).",
+            "homepage": "http://www.object-refinery.com/orsoncharts/index.html",
             "id": 11403241,
             "language": "Java",
+            "license": "GPL-3.0",
             "last_commit": "2025-06-12T12:37:55Z",
+            "open_issues": 6,
             "owner": "jfree",
             "repo": "orson-charts",
-            "stars": 123
+            "stars": 123,
+            "topics": [
+              "3d-charts",
+              "data-visualization",
+              "java2d",
+              "javafx",
+              "swing"
+            ]
           },
           "first_seen": "2026-08-28T06:26:18.132Z"
         },
@@ -634,12 +1057,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Decorate \"Undecorated\" JavaFX windows",
+            "homepage": null,
             "id": 7691110,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2015-09-16T16:20:21Z",
+            "open_issues": 10,
             "owner": "in-sideFX",
             "repo": "Undecorator",
-            "stars": 121
+            "stars": 121,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:26:18.132Z"
         },
@@ -650,12 +1078,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "JideFX Common Layer",
+            "homepage": null,
             "id": 11161563,
             "language": "Java",
+            "license": "NOASSERTION",
             "last_commit": "2015-07-22T19:18:18Z",
+            "open_issues": 21,
             "owner": "jidesoft",
             "repo": "jidefx-oss",
-            "stars": 108
+            "stars": 108,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:26:18.132Z"
         },
@@ -666,12 +1099,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Undo manager for JavaFX",
+            "homepage": null,
             "id": 16555553,
             "language": "Java",
+            "license": "BSD-2-Clause",
             "last_commit": "2025-06-24T14:01:31Z",
+            "open_issues": 4,
             "owner": "FXMisc",
             "repo": "UndoFX",
-            "stars": 108
+            "stars": 108,
+            "topics": [
+              "javafx",
+              "undo-redo"
+            ]
           },
           "first_seen": "2026-08-28T06:26:18.132Z"
         },
@@ -682,12 +1123,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Provides a Java API to use the JavaScript library d3.js with the JavaFx WebView",
+            "homepage": null,
             "id": 43196856,
             "language": "Java",
+            "license": "NOASSERTION",
             "last_commit": "2018-07-03T17:38:11Z",
+            "open_issues": 2,
             "owner": "stefaneidelloth",
             "repo": "javafx-d3",
-            "stars": 105
+            "stars": 105,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:26:18.132Z"
         },
@@ -698,12 +1144,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A library for JavaFX that gives you the ability to show progress on the Windows taskbar.",
+            "homepage": null,
             "id": 216102593,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2021-08-23T08:46:00Z",
+            "open_issues": 3,
             "owner": "Dansoftowner",
             "repo": "FXTaskbarProgressBar",
-            "stars": 97
+            "stars": 97,
+            "topics": [
+              "bridj",
+              "java",
+              "javafx",
+              "native",
+              "native-library",
+              "taskbar",
+              "taskbar-progressbar",
+              "windows",
+              "windows-10",
+              "windows-7"
+            ]
           },
           "first_seen": "2026-08-28T06:26:18.132Z"
         },
@@ -714,12 +1176,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A simple JavaFX application to load, save and edit a CSV file and provide a JSON configuration for columns to check the values in the columns.",
+            "homepage": "http://frosch95.github.io/SmartCSV.fx/",
             "id": 47041145,
             "language": "Java",
+            "license": "MIT",
             "last_commit": "2026-07-28T21:36:04Z",
+            "open_issues": 2,
             "owner": "frosch95",
             "repo": "SmartCSV.fx",
-            "stars": 79
+            "stars": 79,
+            "topics": [
+              "hacktoberfest"
+            ]
           },
           "first_seen": "2026-08-28T06:26:18.132Z"
         },
@@ -730,12 +1199,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 79645494,
             "language": "Kotlin",
+            "license": "BSD-3-Clause",
             "last_commit": "2025-12-10T16:16:34Z",
+            "open_issues": 2,
             "owner": "hudsonb",
             "repo": "kubed",
-            "stars": 75
+            "stars": 75,
+            "topics": [
+              "2d-graphics",
+              "d3",
+              "data-visualization",
+              "dsl",
+              "javafx",
+              "kotlin",
+              "visualization"
+            ]
           },
           "first_seen": "2026-08-28T06:26:18.132Z"
         },
@@ -746,12 +1228,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "MDI components for JavaFX",
+            "homepage": null,
             "id": 137860367,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2022-01-01T11:09:55Z",
+            "open_issues": 8,
             "owner": "kordamp",
             "repo": "desktoppanefx",
-            "stars": 74
+            "stars": 74,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:26:18.132Z"
         },
@@ -762,12 +1249,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Full Featured Google Chrome Dev Tools to JavaFX WebView browser debugging.",
+            "homepage": null,
             "id": 121605740,
             "language": "Java",
+            "license": "MIT",
             "last_commit": "2022-01-04T17:31:17Z",
+            "open_issues": 10,
             "owner": "vsch",
             "repo": "Javafx-WebView-Debugger",
-            "stars": 73
+            "stars": 73,
+            "topics": [
+              "chrome-dev",
+              "debugger",
+              "java-websocket",
+              "javafx-webview",
+              "javafx-webview-debugging",
+              "javascript",
+              "webview-javascript-debugging"
+            ]
           },
           "first_seen": "2026-08-28T06:26:18.132Z"
         },
@@ -778,12 +1278,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Collection of Binding helpers for JavaFX(8)",
+            "homepage": null,
             "id": 20501321,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2020-04-25T14:14:18Z",
+            "open_issues": 2,
             "owner": "manuel-mauky",
             "repo": "advanced-bindings",
-            "stars": 69
+            "stars": 69,
+            "topics": [
+              "javafx",
+              "javafx-library"
+            ]
           },
           "first_seen": "2026-08-28T06:26:18.132Z"
         },
@@ -794,12 +1302,37 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A fun little word game 🍄",
+            "homepage": "https://medium.com/@sandeepdasika/how-i-built-a-simple-word-game-in-java-using-javafx-8fba925b71c6",
             "id": 157178005,
             "language": "Kotlin",
+            "license": "MIT",
             "last_commit": "2025-01-18T09:35:44Z",
+            "open_issues": 1,
             "owner": "gravetii",
             "repo": "wordagam",
-            "stars": 68
+            "stars": 68,
+            "topics": [
+              "frontend-app",
+              "game",
+              "game-dev",
+              "game-development",
+              "gaming",
+              "gui",
+              "java",
+              "javafx",
+              "javafx-application",
+              "javafx-desktop-apps",
+              "javafx-games",
+              "javafx-gui",
+              "javafx-project",
+              "javafx-projects",
+              "javagame",
+              "kotlin",
+              "openjfx",
+              "wordament",
+              "wordgames"
+            ]
           },
           "first_seen": "2026-08-28T06:26:18.132Z"
         },
@@ -810,12 +1343,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A lightweight pinch-to-zoom pane for JavaFX",
+            "homepage": null,
             "id": 99486588,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2026-04-10T09:42:26Z",
+            "open_issues": 2,
             "owner": "tom91136",
             "repo": "GestureFX",
-            "stars": 67
+            "stars": 67,
+            "topics": [
+              "image-viewer",
+              "imageview",
+              "java",
+              "java8",
+              "javafx",
+              "javafx-library",
+              "pinch-to-zoom"
+            ]
           },
           "first_seen": "2026-08-28T06:26:18.132Z"
         },
@@ -826,12 +1372,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "📊 Exposing charts from Java to JavaFX and the Web! ",
+            "homepage": null,
             "id": 131001111,
             "language": "Java",
+            "license": "MIT",
             "last_commit": "2018-10-23T16:51:43Z",
+            "open_issues": 6,
             "owner": "jasrodis",
             "repo": "javafx-dataviewer-wrapper",
-            "stars": 66
+            "stars": 66,
+            "topics": [
+              "charts",
+              "java",
+              "javafx",
+              "javascript",
+              "jetty",
+              "web",
+              "websocket"
+            ]
           },
           "first_seen": "2026-08-28T06:26:18.132Z"
         },
@@ -842,12 +1401,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "JavaFX 3D CSG IDE",
+            "homepage": "http://miho.github.io/JFXScad",
             "id": 18239037,
             "language": "Java",
+            "license": "NOASSERTION",
             "last_commit": "2017-10-27T18:11:01Z",
+            "open_issues": 4,
             "owner": "miho",
             "repo": "JFXScad",
-            "stars": 65
+            "stars": 65,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:26:18.132Z"
         },
@@ -858,12 +1422,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Techsenger JediTermFX – Terminal Emulator for JavaFX.",
+            "homepage": null,
             "id": 822794100,
             "language": "Java",
+            "license": "LGPL-3.0",
             "last_commit": "2026-02-03T22:20:28Z",
+            "open_issues": 7,
             "owner": "techsenger",
             "repo": "jeditermfx",
-            "stars": 64
+            "stars": 64,
+            "topics": [
+              "bash",
+              "cli",
+              "cmd",
+              "command-line",
+              "console",
+              "java",
+              "javafx",
+              "javafx-components",
+              "javafx-library",
+              "linux",
+              "macos",
+              "pty",
+              "shell",
+              "ssh",
+              "terminal",
+              "terminal-emulator",
+              "terminal-emulators",
+              "tty",
+              "windows",
+              "xterm"
+            ]
           },
           "first_seen": "2026-08-28T06:26:18.132Z"
         },
@@ -874,12 +1464,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Composable event handlers and skin scaffolding for JavaFX controls.",
+            "homepage": null,
             "id": 24429801,
             "language": "Java",
+            "license": "BSD-2-Clause",
             "last_commit": "2018-07-16T15:09:30Z",
+            "open_issues": 4,
             "owner": "FXMisc",
             "repo": "WellBehavedFX",
-            "stars": 63
+            "stars": 63,
+            "topics": [
+              "behavior",
+              "controller",
+              "javafx"
+            ]
           },
           "first_seen": "2026-08-28T06:26:18.132Z"
         },
@@ -890,12 +1489,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "CSS keyframe animation for JavaFX. Create animations like you would do with CSS.",
+            "homepage": "http://jfxanimation.schlegel11.de",
             "id": 156935940,
             "language": "Java",
+            "license": "MIT",
             "last_commit": "2018-12-25T15:04:13Z",
+            "open_issues": 0,
             "owner": "schlegel11",
             "repo": "JFXAnimation",
-            "stars": 57
+            "stars": 57,
+            "topics": [
+              "animation",
+              "css",
+              "javafx",
+              "keyframe-animation"
+            ]
           },
           "first_seen": "2026-08-28T06:26:18.132Z"
         },
@@ -906,12 +1515,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":icecream: iOS frosty/translucent effect to JavaFX.",
+            "homepage": null,
             "id": 269201392,
             "language": "Java",
+            "license": "MIT",
             "last_commit": "2022-11-04T17:10:39Z",
+            "open_issues": 0,
             "owner": "iamgio",
             "repo": "froxty",
-            "stars": 55
+            "stars": 54,
+            "topics": [
+              "frosted",
+              "frosted-effect",
+              "frosted-glass",
+              "ios",
+              "javafx",
+              "javafx-component",
+              "javafx-components",
+              "javafx-library",
+              "ui"
+            ]
           },
           "first_seen": "2026-08-28T06:26:18.132Z"
         },
@@ -922,12 +1546,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Directory tree model for JavaFX that watches the filesystem for changes.",
+            "homepage": null,
             "id": 18490869,
             "language": "Java",
+            "license": "BSD-2-Clause",
             "last_commit": "2020-09-21T22:47:59Z",
+            "open_issues": 6,
             "owner": "TomasMikula",
             "repo": "LiveDirsFX",
-            "stars": 51
+            "stars": 51,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:26:18.132Z"
         },
@@ -938,12 +1567,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Run Java FX on Quarkus",
+            "homepage": "https://openjfx.io/",
             "id": 748899028,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2026-07-19T10:42:17Z",
+            "open_issues": 10,
             "owner": "quarkiverse",
             "repo": "quarkus-fx",
-            "stars": 48
+            "stars": 48,
+            "topics": [
+              "javafx",
+              "quarkus",
+              "quarkus-extension"
+            ]
           },
           "first_seen": "2026-08-28T06:26:18.132Z"
         },
@@ -954,12 +1592,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Controls for adding Parallax effects for Java (JavaFX)",
+            "homepage": "https://www.pixelduke.com/fxparallax",
             "id": 125553861,
             "language": "Java",
+            "license": "NOASSERTION",
             "last_commit": "2022-09-30T22:44:11Z",
+            "open_issues": 1,
             "owner": "dukke",
             "repo": "FXParallax",
-            "stars": 46
+            "stars": 46,
+            "topics": [
+              "consultant",
+              "freelancer",
+              "java",
+              "javafx",
+              "javafx-library"
+            ]
           },
           "first_seen": "2026-08-28T06:26:18.132Z"
         },
@@ -970,12 +1619,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "JSilhouette provides additional shapes for Java applications",
+            "homepage": null,
             "id": 53218672,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2022-02-21T20:34:14Z",
+            "open_issues": 6,
             "owner": "kordamp",
             "repo": "jsilhouette",
-            "stars": 43
+            "stars": 43,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:26:18.132Z"
         },
@@ -986,12 +1640,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Java Desktop (JavaFX and Swing) Component Inspector on mouse over",
+            "homepage": null,
             "id": 268712750,
             "language": "Java",
+            "license": "LGPL-3.0",
             "last_commit": "2022-06-08T14:17:05Z",
+            "open_issues": 2,
             "owner": "TangoraBox",
             "repo": "ComponentInspector",
-            "stars": 40
+            "stars": 40,
+            "topics": [
+              "component",
+              "component-inspector",
+              "desktop",
+              "inspector",
+              "java",
+              "javafx",
+              "node",
+              "swing"
+            ]
           },
           "first_seen": "2026-08-28T06:26:18.132Z"
         },
@@ -1002,12 +1670,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Reactive JavaFX Event Handling",
+            "homepage": null,
             "id": 108363879,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2019-09-10T19:44:32Z",
+            "open_issues": 1,
             "owner": "shadskii",
             "repo": "ReactorFX",
-            "stars": 40
+            "stars": 40,
+            "topics": [
+              "javafx",
+              "project-reactor",
+              "reactor"
+            ]
           },
           "first_seen": "2026-08-28T06:26:18.132Z"
         },
@@ -1018,12 +1695,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Material 3 color system for JavaFX",
+            "homepage": "https://github.com/Glavo/MonetFX",
             "id": 947972830,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2026-03-09T03:36:54Z",
+            "open_issues": 0,
             "owner": "Glavo",
             "repo": "MonetFX",
-            "stars": 32
+            "stars": 32,
+            "topics": [
+              "dark-mode",
+              "javafx",
+              "material-design",
+              "material-you",
+              "openjfx"
+            ]
           },
           "first_seen": "2026-08-28T06:26:18.132Z"
         },
@@ -1034,12 +1722,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A grid component for javafx",
+            "homepage": null,
             "id": 19959979,
             "language": "Java",
+            "license": null,
             "last_commit": "2016-09-14T17:11:49Z",
+            "open_issues": 2,
             "owner": "manuel-mauky",
             "repo": "Grid",
-            "stars": 28
+            "stars": 28,
+            "topics": [
+              "javafx",
+              "javafx-library"
+            ]
           },
           "first_seen": "2026-08-28T06:26:18.132Z"
         },
@@ -1050,12 +1746,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Techsenger TabPanePro  – A lightweight JavaFX library that extends TabPane with practical features.",
+            "homepage": null,
             "id": 1004301109,
             "language": "Java",
+            "license": "GPL-2.0",
             "last_commit": "2026-04-02T12:47:55Z",
+            "open_issues": 0,
             "owner": "techsenger",
             "repo": "tabpanepro",
-            "stars": 28
+            "stars": 28,
+            "topics": [
+              "javafx",
+              "javafx-application",
+              "javafx-components",
+              "javafx-desktop-apps",
+              "javafx-gui",
+              "javafx-library",
+              "javafx-project"
+            ]
           },
           "first_seen": "2026-08-28T06:26:18.132Z"
         },
@@ -1066,12 +1775,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Techsenger StagePro – A library for creating custom JavaFX stages with fine-grained control over appearance and layout.",
+            "homepage": null,
             "id": 909910594,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2025-10-18T18:21:41Z",
+            "open_issues": 0,
             "owner": "techsenger",
             "repo": "stagepro",
-            "stars": 27
+            "stars": 27,
+            "topics": [
+              "javafx",
+              "javafx-application",
+              "javafx-components",
+              "javafx-desktop-apps",
+              "javafx-gui",
+              "javafx-library",
+              "javafx-project"
+            ]
           },
           "first_seen": "2026-08-28T06:26:18.132Z"
         },
@@ -1082,12 +1804,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Validation support for javafx",
+            "homepage": null,
             "id": 22297164,
             "language": "Java",
+            "license": null,
             "last_commit": "2018-07-10T14:18:23Z",
+            "open_issues": 0,
             "owner": "dukke",
             "repo": "FXValidation",
-            "stars": 25
+            "stars": 25,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:26:18.132Z"
         },
@@ -1098,12 +1825,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A JavaFX 3D Visualization and Component Library",
+            "homepage": "http://fxyz3d.org",
             "id": 73638331,
             "language": "Mathematica",
+            "license": "NOASSERTION",
             "last_commit": "2024-12-02T12:16:32Z",
+            "open_issues": 0,
             "owner": "Birdasaur",
             "repo": "FXyz-DeepSpaceBranch",
-            "stars": 23
+            "stars": 23,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:26:18.132Z"
         },
@@ -1114,12 +1846,35 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Lib-Tile is a multi Maven project written in JavaFX and NetBeans IDE 8 and provides the functionalities to use and handle easily Tiles in your JavaFX application.",
+            "homepage": null,
             "id": 64787498,
             "language": "Java",
+            "license": "GPL-3.0",
             "last_commit": "2017-08-13T14:54:26Z",
+            "open_issues": 4,
             "owner": "Naoghuman",
             "repo": "lib-tile",
-            "stars": 16
+            "stars": 16,
+            "topics": [
+              "icon",
+              "icons",
+              "image",
+              "images",
+              "java",
+              "java-8",
+              "javafx",
+              "libraries",
+              "library",
+              "maven",
+              "maven-multimodule",
+              "netbeans",
+              "netbeans-ide",
+              "overlay",
+              "tile",
+              "transparency",
+              "transparent"
+            ]
           },
           "first_seen": "2026-08-28T06:26:18.132Z"
         },
@@ -1130,12 +1885,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Language Manager is a JavaFX library that enables dynamic language switching at runtime, allowing you to update the application language without needing to refresh the scene.",
+            "homepage": null,
             "id": 964160375,
             "language": "Java",
+            "license": "MIT",
             "last_commit": "2025-08-10T04:00:41Z",
+            "open_issues": 0,
             "owner": "Snoopy137",
             "repo": "language-manager",
-            "stars": 12
+            "stars": 12,
+            "topics": [
+              "gluon",
+              "gluonfx",
+              "java",
+              "javafx",
+              "locale",
+              "translation"
+            ]
           },
           "first_seen": "2026-08-28T06:26:18.132Z"
         },
@@ -1146,12 +1913,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Figures is a free, simple-to-use, flexible money management application.  It is light-weight and fast, and stores your data in a SQLite database which can be optionally encrypted.  You can import and export your data in OFX or QIF formats. ",
+            "homepage": null,
             "id": 659428471,
             "language": "Java",
+            "license": null,
             "last_commit": "2025-07-06T19:46:44Z",
+            "open_issues": 0,
             "owner": "pjacobsma",
             "repo": "Figures",
-            "stars": 9
+            "stars": 9,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:26:18.132Z"
         },
@@ -1162,12 +1934,29 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "The NetBeansIDE-AfterburnerFX-Plugin is a NetBeans IDE plugin which supports the  file generation in convention with the library afterburner.fx in a JavaFX project.",
+            "homepage": null,
             "id": 42947922,
             "language": "Java",
+            "license": "GPL-3.0",
             "last_commit": "2017-03-07T15:29:02Z",
+            "open_issues": 10,
             "owner": "Naoghuman",
             "repo": "NetBeansIDE-AfterburnerFX-Plugin",
-            "stars": 9
+            "stars": 9,
+            "topics": [
+              "afterburner",
+              "development",
+              "java-8",
+              "javafx",
+              "javafx-application",
+              "javascript",
+              "netbeans",
+              "netbeans-ide",
+              "netbeans-rcp",
+              "netbeanside-afterburnerfx-plugin",
+              "plugin"
+            ]
           },
           "first_seen": "2026-08-28T06:26:18.132Z"
         },
@@ -1178,12 +1967,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 68226081,
             "language": "Java",
+            "license": "LGPL-3.0",
             "last_commit": "2016-09-14T17:05:50Z",
+            "open_issues": 0,
             "owner": "manuel-mauky",
             "repo": "SynchronizeFX",
-            "stars": 9
+            "stars": 9,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:26:18.132Z"
         },
@@ -1194,12 +1988,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "AssertJ assertions for JavaFX",
+            "homepage": null,
             "id": 18777396,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2015-05-16T18:31:49Z",
+            "open_issues": 1,
             "owner": "manuel-mauky",
             "repo": "assertj-javafx",
-            "stars": 7
+            "stars": 7,
+            "topics": [
+              "assertj",
+              "assertj-assertions",
+              "javafx"
+            ]
           },
           "first_seen": "2026-08-28T06:26:18.132Z"
         },
@@ -1210,12 +2013,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Maps ResultSets and other popular data representations to JavaFx Nodes based on thier ids",
+            "homepage": null,
             "id": 152615818,
             "language": "Java",
+            "license": "MIT",
             "last_commit": "2018-10-18T06:03:09Z",
+            "open_issues": 0,
             "owner": "abykuruvilla-dev",
             "repo": "JFXNodeMapper",
-            "stars": 6
+            "stars": 6,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:26:18.132Z"
         },
@@ -1226,12 +2034,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A fluent, type-safe CSS builder for JavaFX.",
+            "homepage": null,
             "id": 987143826,
             "language": "Java",
+            "license": "NOASSERTION",
             "last_commit": "2025-06-09T15:58:16Z",
+            "open_issues": 0,
             "owner": "brunomnsilva",
             "repo": "FluentFxCSS",
-            "stars": 5
+            "stars": 5,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:26:18.132Z"
         },
@@ -1242,12 +2055,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Java implementation of the MVCI framework",
+            "homepage": null,
             "id": 932935375,
             "language": "Java",
+            "license": null,
             "last_commit": "2025-05-17T13:20:27Z",
+            "open_issues": 0,
             "owner": "barmat80",
             "repo": "mvciFX",
-            "stars": 5
+            "stars": 5,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:26:18.132Z"
         },
@@ -1258,12 +2076,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A JavaFX lightweight library that provides a suggestion (autocompletion) system for text fields linked to data entries",
+            "homepage": null,
             "id": 909019177,
             "language": "Java",
+            "license": null,
             "last_commit": "2025-05-17T13:19:55Z",
+            "open_issues": 0,
             "owner": "barmat80",
             "repo": "SuggesterFX",
-            "stars": 5
+            "stars": 5,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:26:18.132Z"
         },
@@ -1274,12 +2097,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "FlexBoxFX is a JavaFX implementation of CSS3 flexbox.",
+            "homepage": null,
             "id": 71779426,
             "language": null,
+            "license": null,
             "last_commit": "2018-09-17T13:31:22Z",
+            "open_issues": 0,
             "owner": "malikoski",
             "repo": "FlexBoxFX",
-            "stars": 4
+            "stars": 4,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:26:18.132Z"
         },
@@ -1290,12 +2118,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Java friendly DSL for defining TestFX tests",
+            "homepage": null,
             "id": 61278286,
             "language": "Java",
+            "license": "NOASSERTION",
             "last_commit": "2017-01-08T14:58:33Z",
+            "open_issues": 0,
             "owner": "aalmiray",
             "repo": "testfx-dsl",
-            "stars": 4
+            "stars": 4,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:26:18.132Z"
         },
@@ -1306,12 +2139,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An image-resizer app in Java 17, JavaFx and with afterburner framework",
+            "homepage": null,
             "id": 117669089,
             "language": "Java",
+            "license": null,
             "last_commit": "2024-10-05T06:00:40Z",
+            "open_issues": 0,
             "owner": "Hakky54",
             "repo": "resize-me",
-            "stars": 3
+            "stars": 3,
+            "topics": [
+              "afterburner",
+              "java",
+              "javafx"
+            ]
           },
           "first_seen": "2026-08-28T06:26:18.132Z"
         },
@@ -1322,12 +2164,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Een app die je helpt met kiezen van het juiste lidwoord",
+            "homepage": null,
             "id": 118148176,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2026-01-26T21:44:45Z",
+            "open_issues": 1,
             "owner": "Hakky54",
             "repo": "welk-lidwoord",
-            "stars": 2
+            "stars": 2,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:26:18.132Z"
         },
@@ -1338,12 +2185,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Developer Tool for JavaFX projects using redux",
+            "homepage": null,
             "id": 96712813,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2017-11-03T17:13:24Z",
+            "open_issues": 0,
             "owner": "manuel-mauky",
             "repo": "redux-javafx-devtool",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:26:18.132Z"
         }
@@ -1360,12 +2212,24 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Lightweight JavaFX Framework for Kotlin",
+            "homepage": null,
             "id": 49143977,
             "language": "Kotlin",
+            "license": "Apache-2.0",
             "last_commit": "2023-04-13T05:12:47Z",
+            "open_issues": 197,
             "owner": "edvin",
             "repo": "tornadofx",
-            "stars": 3632
+            "stars": 3632,
+            "topics": [
+              "desktop",
+              "javafx",
+              "kotlin",
+              "rcp",
+              "tornadofx",
+              "ui-kit"
+            ]
           },
           "first_seen": "2026-08-28T06:26:18.132Z"
         },
@@ -1376,12 +2240,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Declarative, functional and extensible wrapper of JavaFX inspired by react and re-frame",
+            "homepage": null,
             "id": 162845532,
             "language": "Clojure",
+            "license": "MIT",
             "last_commit": "2026-08-22T07:48:51Z",
+            "open_issues": 37,
             "owner": "cljfx",
             "repo": "cljfx",
-            "stars": 1100
+            "stars": 1100,
+            "topics": [
+              "cljfx",
+              "clojure",
+              "fn-fx",
+              "functional",
+              "javafx",
+              "re-frame",
+              "react",
+              "reagent"
+            ]
           },
           "first_seen": "2026-08-28T06:26:18.132Z"
         },
@@ -1392,12 +2270,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "an Application Framework for implementing the MVVM Pattern with JavaFX",
+            "homepage": null,
             "id": 12903179,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2023-07-04T07:05:18Z",
+            "open_issues": 97,
             "owner": "sialcasa",
             "repo": "mvvmFX",
-            "stars": 525
+            "stars": 525,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:26:18.132Z"
         },
@@ -1408,12 +2291,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A lightweight RCP framework for JavaFX applications.",
+            "homepage": null,
             "id": 148480967,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-13T18:49:03Z",
+            "open_issues": 17,
             "owner": "dlsc-software-consulting-gmbh",
             "repo": "WorkbenchFX",
-            "stars": 504
+            "stars": 504,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:26:18.132Z"
         },
@@ -1424,12 +2312,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "SpringBoot / JavaFX8 Integration",
+            "homepage": null,
             "id": 48638547,
             "language": "Java",
+            "license": "MIT",
             "last_commit": "2025-07-08T14:28:11Z",
+            "open_issues": 31,
             "owner": "roskenet",
             "repo": "springboot-javafx-support",
-            "stars": 429
+            "stars": 429,
+            "topics": [
+              "fxml",
+              "javafx",
+              "spring",
+              "springboot"
+            ]
           },
           "first_seen": "2026-08-28T06:26:18.132Z"
         },
@@ -1440,12 +2338,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Solution for rapid development of specific enterprise software",
+            "homepage": "https://openlowcode.com/",
             "id": 192153429,
             "language": "Java",
+            "license": "EPL-2.0",
             "last_commit": "2021-03-17T09:35:28Z",
+            "open_issues": 54,
             "owner": "openlowcode",
             "repo": "Open-Lowcode",
-            "stars": 214
+            "stars": 214,
+            "topics": [
+              "java",
+              "javafx",
+              "low-code",
+              "low-code-development-platform",
+              "low-code-plattform"
+            ]
           },
           "first_seen": "2026-08-28T06:26:18.132Z"
         },
@@ -1456,12 +2365,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Custom JavaFX bindings made easy with lambdas.",
+            "homepage": null,
             "id": 17887026,
             "language": "Java",
+            "license": "BSD-2-Clause",
             "last_commit": "2018-07-20T21:11:25Z",
+            "open_issues": 8,
             "owner": "TomasMikula",
             "repo": "EasyBind",
-            "stars": 156
+            "stars": 156,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:26:18.132Z"
         },
@@ -1472,12 +2386,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Functional Reactive Programming (FRP) for JavaFX",
+            "homepage": null,
             "id": 71179579,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2020-03-08T19:12:01Z",
+            "open_issues": 13,
             "owner": "netopyr",
             "repo": "reduxfx",
-            "stars": 117
+            "stars": 117,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:26:18.132Z"
         },
@@ -1488,12 +2407,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": null,
+            "homepage": null,
             "id": 79148749,
             "language": "Java",
+            "license": null,
             "last_commit": "2019-05-21T08:16:18Z",
+            "open_issues": 11,
             "owner": "guigarage",
             "repo": "DataFX",
-            "stars": 116
+            "stars": 116,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:26:18.132Z"
         },
@@ -1504,12 +2428,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Desktop/Mobile JavaFX application framework ",
+            "homepage": null,
             "id": 44013289,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2022-04-30T17:17:49Z",
+            "open_issues": 1,
             "owner": "basilisk-fw",
             "repo": "basilisk",
-            "stars": 61
+            "stars": 61,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:26:18.132Z"
         },
@@ -1520,12 +2449,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Javafx Library for building MVC Applications.",
+            "homepage": "http://davidmadethis.com/APX/",
             "id": 73397797,
             "language": "Java",
+            "license": "MIT",
             "last_commit": "2024-05-30T03:26:41Z",
+            "open_issues": 2,
             "owner": "othreecodes",
             "repo": "APX",
-            "stars": 46
+            "stars": 46,
+            "topics": [
+              "desktop-app",
+              "fxml",
+              "gson",
+              "java",
+              "java-8",
+              "javafx",
+              "javafx-library",
+              "mvc",
+              "sqlite-jdbc"
+            ]
           },
           "first_seen": "2026-08-28T06:26:18.132Z"
         },
@@ -1536,12 +2480,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Techsenger ShellFX  – A platform for building JavaFX applications using an extended MVP pattern.",
+            "homepage": null,
             "id": 936262459,
             "language": "Java",
-            "last_commit": "2026-08-24T19:36:21Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-29T00:33:43Z",
+            "open_issues": 0,
             "owner": "techsenger",
             "repo": "shellfx",
-            "stars": 35
+            "stars": 35,
+            "topics": [
+              "javafx",
+              "javafx-application",
+              "javafx-component",
+              "javafx-components",
+              "javafx-desktop-app",
+              "javafx-desktop-apps",
+              "javafx-gui",
+              "javafx-library",
+              "javafx-project",
+              "mvp",
+              "mvp-architecture",
+              "mvp-library",
+              "mvp-pattern"
+            ]
           },
           "first_seen": "2026-08-28T06:26:18.132Z"
         },
@@ -1552,12 +2515,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "JavaFX micro-framework that follows MVVM Pattern with Google Guice dependency Injection",
+            "homepage": null,
             "id": 359113834,
             "language": "Java",
+            "license": "LGPL-3.0",
             "last_commit": "2026-08-17T04:00:06Z",
+            "open_issues": 0,
             "owner": "TangoraBox",
             "repo": "ReactiveDeskFX",
-            "stars": 12
+            "stars": 12,
+            "topics": [
+              "framework",
+              "fxml",
+              "fxml-loading",
+              "guice-injection",
+              "injection",
+              "javafx"
+            ]
           },
           "first_seen": "2026-08-28T06:26:18.132Z"
         }
@@ -1574,12 +2549,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Minecraft Launcher which is multi-functional, cross-platform and popular",
+            "homepage": "https://hmcl.huangyuhui.net",
             "id": 37844001,
             "language": "Java",
-            "last_commit": "2026-08-27T13:37:15Z",
+            "license": "GPL-3.0",
+            "last_commit": "2026-08-28T14:02:22Z",
+            "open_issues": 528,
             "owner": "HMCL-dev",
             "repo": "HMCL",
-            "stars": 9943
+            "stars": 9948,
+            "topics": [
+              "javafx",
+              "minecraft",
+              "minecraft-launcher"
+            ]
           },
           "first_seen": "2026-08-28T06:26:18.132Z"
         },
@@ -1590,12 +2574,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The modern Java bytecode editor",
+            "homepage": "https://recaf.coley.software",
             "id": 98499283,
             "language": "Java",
+            "license": "MIT",
             "last_commit": "2026-08-22T01:53:52Z",
+            "open_issues": 66,
             "owner": "Col-E",
             "repo": "Recaf",
-            "stars": 7357
+            "stars": 7359,
+            "topics": [
+              "agent",
+              "asm",
+              "bytecode",
+              "bytecode-engineering",
+              "bytecode-manipulation",
+              "decompile",
+              "decompiler",
+              "java",
+              "java-decompiler",
+              "javafx",
+              "javafx-application",
+              "jvm-bytecode",
+              "reverse-engineering",
+              "static-analysis"
+            ]
           },
           "first_seen": "2026-08-28T06:26:18.132Z"
         },
@@ -1606,12 +2610,25 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "😉    Pretty nice Zookeeper GUI, Support Win / Mac / Linux Platform",
+            "homepage": null,
             "id": 211431657,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2024-01-09T14:17:44Z",
+            "open_issues": 0,
             "owner": "vran-dev",
             "repo": "PrettyZoo",
-            "stars": 3242
+            "stars": 3242,
+            "topics": [
+              "gui",
+              "java",
+              "javafx",
+              "visualizer",
+              "zk",
+              "zookeeper",
+              "zookeeper-gui"
+            ]
           },
           "first_seen": "2026-08-28T06:26:18.132Z"
         },
@@ -1622,12 +2639,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A beautiful, cross-platform REST client.",
+            "homepage": null,
             "id": 118000996,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2022-11-16T09:36:41Z",
+            "open_issues": 8,
             "owner": "RohitAwate",
             "repo": "Everest",
-            "stars": 825
+            "stars": 825,
+            "topics": [
+              "cross-platform",
+              "desktop-app",
+              "everest",
+              "java",
+              "javafx",
+              "native-apps",
+              "rest-client",
+              "summit"
+            ]
           },
           "first_seen": "2026-08-28T06:26:18.132Z"
         },
@@ -1638,12 +2669,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🎧 🎼  The MOST ADVANCED JavaFX Media Player ",
+            "homepage": "https://xr3player.netlify.com/",
             "id": 78567398,
             "language": "Java",
+            "license": "LGPL-3.0",
             "last_commit": "2025-04-28T15:23:01Z",
+            "open_issues": 29,
             "owner": "goxr3plus",
             "repo": "XR3Player",
-            "stars": 771
+            "stars": 771,
+            "topics": [
+              "audio-formats",
+              "audio-player",
+              "audio-processing",
+              "audio-recorder",
+              "audio-visualizer",
+              "dropbox-client",
+              "java-speech",
+              "java-stream-player",
+              "javafx",
+              "mp3",
+              "spectrum-analyzer",
+              "speech",
+              "stream-player",
+              "web-browser"
+            ]
           },
           "first_seen": "2026-08-28T06:26:18.132Z"
         },
@@ -1654,12 +2705,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": " A Time Series Browser",
+            "homepage": "https://binjr.eu",
             "id": 71999295,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-18T15:41:29Z",
+            "open_issues": 10,
             "owner": "binjr",
             "repo": "binjr",
-            "stars": 368
+            "stars": 368,
+            "topics": [
+              "analytics",
+              "binjr",
+              "chart",
+              "java",
+              "javafx",
+              "javafx-desktop-apps",
+              "jrds",
+              "logviewer",
+              "monitoring",
+              "netdata",
+              "rrd4j",
+              "rrdtool",
+              "time-series",
+              "visualization"
+            ]
           },
           "first_seen": "2026-08-28T06:26:18.132Z"
         },
@@ -1670,12 +2741,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The game 2048, built using JavaFX",
+            "homepage": "http://brunoborges.github.io/fx2048/",
             "id": 18281390,
             "language": "Java",
+            "license": "GPL-3.0",
             "last_commit": "2026-08-26T05:11:33Z",
+            "open_issues": 3,
             "owner": "brunoborges",
             "repo": "fx2048",
-            "stars": 293
+            "stars": 293,
+            "topics": [
+              "game",
+              "java",
+              "javafx"
+            ]
           },
           "first_seen": "2026-08-28T06:26:18.132Z"
         },
@@ -1686,12 +2766,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Mindolph is an open source personal knowledge management software with Gen-AI support for all desktop platforms.",
+            "homepage": null,
             "id": 480504296,
             "language": "Java",
+            "license": "GPL-3.0",
             "last_commit": "2026-08-15T16:37:01Z",
+            "open_issues": 5,
             "owner": "mindolph",
             "repo": "Mindolph",
-            "stars": 199
+            "stars": 199,
+            "topics": [
+              "csv",
+              "freemind",
+              "gen-ai",
+              "javafx",
+              "javafx-desktop-apps",
+              "knowlege",
+              "llm",
+              "markdown",
+              "markdown-editor",
+              "mind",
+              "mind-map",
+              "mindmap",
+              "mmd",
+              "ollama",
+              "openai",
+              "openai-api",
+              "pdf",
+              "plantuml",
+              "puml",
+              "xmind"
+            ]
           },
           "first_seen": "2026-08-28T06:26:18.132Z"
         },
@@ -1702,12 +2808,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A JavaFX based desktop search application.",
+            "homepage": null,
             "id": 22809235,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-24T04:03:08Z",
+            "open_issues": 15,
             "owner": "mirkosertic",
             "repo": "FXDesktopSearch",
-            "stars": 185
+            "stars": 185,
+            "topics": [
+              "corenlp",
+              "desktop",
+              "entity-extraction",
+              "fulltext-search",
+              "java",
+              "javafx",
+              "lucene",
+              "natural-language-processing",
+              "solr"
+            ]
           },
           "first_seen": "2026-08-28T06:26:18.132Z"
         },
@@ -1718,12 +2839,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Cloning the classic games Pac-Man (Arcade), Ms. Pac-Man (Arcade), Ms. Pac-Man (Tengen) in JavaFX (2D+3D).",
+            "homepage": null,
             "id": 338516784,
             "language": "Java",
-            "last_commit": "2026-08-28T06:08:01Z",
+            "license": "MIT",
+            "last_commit": "2026-08-28T15:20:11Z",
+            "open_issues": 5,
             "owner": "armin-reichert",
             "repo": "pacman-javafx",
-            "stars": 121
+            "stars": 121,
+            "topics": [
+              "javafx",
+              "javafx-games",
+              "ms-pacman",
+              "pacman-clone",
+              "pacman-game",
+              "tengen"
+            ]
           },
           "first_seen": "2026-08-28T06:26:18.132Z"
         },
@@ -1734,12 +2867,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "JStackFX, a tool for analyzing thread dumps.",
+            "homepage": null,
             "id": 74609862,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2017-01-02T20:28:31Z",
+            "open_issues": 1,
             "owner": "twasyl",
             "repo": "jstackfx",
-            "stars": 89
+            "stars": 89,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:26:18.132Z"
         },
@@ -1750,12 +2888,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A modern book explorer/catalog application written in Kotlin and Java.",
+            "homepage": null,
             "id": 295794002,
             "language": "Kotlin",
+            "license": "GPL-3.0",
             "last_commit": "2022-06-17T18:31:23Z",
+            "open_issues": 54,
             "owner": "Dansoftowner",
             "repo": "Boomega",
-            "stars": 85
+            "stars": 85,
+            "topics": [
+              "books",
+              "catalog",
+              "client-side",
+              "cross-platform",
+              "database",
+              "desktop",
+              "explorer",
+              "google-books",
+              "gui",
+              "java",
+              "javafx",
+              "kotlin"
+            ]
           },
           "first_seen": "2026-08-28T06:26:18.132Z"
         },
@@ -1766,12 +2922,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A JavaFX desktop application for creating image-object-annotations with bounding boxes.",
+            "homepage": null,
             "id": 193731921,
             "language": "Java",
+            "license": "GPL-3.0",
             "last_commit": "2025-03-15T12:46:24Z",
+            "open_issues": 0,
             "owner": "mfl28",
             "repo": "BoundingBoxEditor",
-            "stars": 57
+            "stars": 57,
+            "topics": [
+              "annotation-tool",
+              "bounding-boxes",
+              "computer-vision-annotation",
+              "desktop-application",
+              "detection",
+              "image-annotation",
+              "image-labeling",
+              "java",
+              "javafx",
+              "javafx-application",
+              "javafx-desktop-apps",
+              "labeling",
+              "tools"
+            ]
           },
           "first_seen": "2026-08-28T06:26:18.132Z"
         },
@@ -1782,12 +2957,33 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A graphical interface for the official W3C EPUBCheck conformance checker.",
+            "homepage": null,
             "id": 675305225,
             "language": "Java",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-06-27T12:46:03Z",
+            "open_issues": 0,
             "owner": "Wandmalfarbe",
             "repo": "EPUBCheckFX",
-            "stars": 9
+            "stars": 9,
+            "topics": [
+              "atlantafx",
+              "cross-platform",
+              "digital-publishing",
+              "dublin-core",
+              "epub",
+              "epub-publications",
+              "epub-validation",
+              "epub-validator",
+              "epub3",
+              "epub3-validator",
+              "javafx",
+              "javafx-application",
+              "javafx-desktop-apps",
+              "metadata",
+              "publishing"
+            ]
           },
           "first_seen": "2026-08-28T06:26:18.132Z"
         },
@@ -1798,12 +2994,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "JavaFX Webview of JSON resume files",
+            "homepage": null,
             "id": 359970206,
             "language": "Java",
+            "license": "GPL-3.0",
             "last_commit": "2021-05-17T22:14:33Z",
+            "open_issues": 0,
             "owner": "TangoraBox",
             "repo": "ResumeFX",
-            "stars": 8
+            "stars": 8,
+            "topics": [
+              "javafx",
+              "jpro",
+              "jsonresume",
+              "jsonresume-theme",
+              "webapp"
+            ]
           },
           "first_seen": "2026-08-28T06:26:18.132Z"
         }
@@ -1812,15 +3019,27 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T06:26:18.132Z",
+    "last_updated": "2026-08-29T03:58:23.277Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of awesome JavaFX libraries, books, frameworks, etc...",
+      "homepage": null,
       "id": 67946638,
       "language": null,
+      "license": "NOASSERTION",
       "last_commit": "2026-07-07T19:50:39Z",
+      "open_issues": 2,
       "owner": "mhrimaz",
       "repo": "AwesomeJavaFX",
-      "stars": 3366
+      "stars": 3366,
+      "topics": [
+        "graphics",
+        "java",
+        "java-8",
+        "javafx",
+        "javafx-frameworks",
+        "javafx-library"
+      ]
     },
     "original_repository_sha": "c6bba36994a55ef00d2aa6462c6d21cea48cf825",
     "enhanced_repository": "enhansome/enhansome-AwesomeJavaFX",
