@@ -68,8 +68,8 @@
             "id": 66772740,
             "language": "Java",
             "license": "GPL-3.0",
-            "last_commit": "2026-08-30T15:18:38Z",
-            "open_issues": 34,
+            "last_commit": "2026-09-01T12:37:23Z",
+            "open_issues": 31,
             "owner": "qupath",
             "repo": "qupath",
             "stars": 1432,
@@ -110,7 +110,7 @@
             "open_issues": 16,
             "owner": "mkpaz",
             "repo": "atlantafx",
-            "stars": 1397,
+            "stars": 1398,
             "topics": [
               "controls",
               "css",
@@ -208,7 +208,7 @@
             "open_issues": 21,
             "owner": "dlsc-software-consulting-gmbh",
             "repo": "CalendarFX",
-            "stars": 861,
+            "stars": 860,
             "topics": []
           },
           "first_seen": "2026-08-28T06:26:18.132Z"
@@ -288,7 +288,7 @@
             "open_issues": 56,
             "owner": "edvin",
             "repo": "fxlauncher",
-            "stars": 730,
+            "stars": 731,
             "topics": []
           },
           "first_seen": "2026-08-28T06:26:18.132Z"
@@ -336,7 +336,7 @@
             "open_issues": 1,
             "owner": "dlsc-software-consulting-gmbh",
             "repo": "GemsFX",
-            "stars": 619,
+            "stars": 620,
             "topics": []
           },
           "first_seen": "2026-08-28T06:26:18.132Z"
@@ -2554,11 +2554,11 @@
             "id": 37844001,
             "language": "Java",
             "license": "GPL-3.0",
-            "last_commit": "2026-08-31T13:25:35Z",
-            "open_issues": 525,
+            "last_commit": "2026-09-01T13:03:29Z",
+            "open_issues": 527,
             "owner": "HMCL-dev",
             "repo": "HMCL",
-            "stars": 9963,
+            "stars": 9972,
             "topics": [
               "javafx",
               "minecraft",
@@ -2583,7 +2583,7 @@
             "open_issues": 66,
             "owner": "Col-E",
             "repo": "Recaf",
-            "stars": 7364,
+            "stars": 7365,
             "topics": [
               "agent",
               "asm",
@@ -2844,7 +2844,7 @@
             "id": 338516784,
             "language": "Java",
             "license": "MIT",
-            "last_commit": "2026-08-31T21:12:45Z",
+            "last_commit": "2026-09-01T19:50:49Z",
             "open_issues": 5,
             "owner": "armin-reichert",
             "repo": "pacman-javafx",
@@ -3019,7 +3019,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-01T01:31:28.161Z",
+    "last_updated": "2026-09-02T00:41:45.947Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome JavaFX libraries, books, frameworks, etc...",
