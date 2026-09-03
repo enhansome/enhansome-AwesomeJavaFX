@@ -19,7 +19,7 @@
             "open_issues": 23,
             "owner": "HanSolo",
             "repo": "tilesfx",
-            "stars": 1519,
+            "stars": 1520,
             "topics": [
               "dashboards",
               "java",
@@ -46,7 +46,7 @@
             "open_issues": 26,
             "owner": "palexdev",
             "repo": "MaterialFX",
-            "stars": 1438,
+            "stars": 1437,
             "topics": [
               "java",
               "javafx",
@@ -72,7 +72,7 @@
             "open_issues": 31,
             "owner": "qupath",
             "repo": "qupath",
-            "stars": 1432,
+            "stars": 1433,
             "topics": [
               "bioimage-analysis",
               "bioimage-informatics",
@@ -110,7 +110,7 @@
             "open_issues": 16,
             "owner": "mkpaz",
             "repo": "atlantafx",
-            "stars": 1398,
+            "stars": 1399,
             "topics": [
               "controls",
               "css",
@@ -135,7 +135,7 @@
             "language": "Java",
             "license": "BSD-2-Clause",
             "last_commit": "2025-12-23T13:57:11Z",
-            "open_issues": 110,
+            "open_issues": 112,
             "owner": "FXMisc",
             "repo": "RichTextFX",
             "stars": 1341,
@@ -184,7 +184,7 @@
             "open_issues": 159,
             "owner": "TestFX",
             "repo": "TestFX",
-            "stars": 976,
+            "stars": 977,
             "topics": [
               "javafx",
               "testfx"
@@ -263,7 +263,7 @@
             "open_issues": 36,
             "owner": "HanSolo",
             "repo": "medusa",
-            "stars": 740,
+            "stars": 741,
             "topics": [
               "javafx",
               "javafx-components",
@@ -2485,7 +2485,7 @@
             "id": 936262459,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-31T22:01:21Z",
+            "last_commit": "2026-09-02T21:41:13Z",
             "open_issues": 0,
             "owner": "techsenger",
             "repo": "shellfx",
@@ -2554,11 +2554,11 @@
             "id": 37844001,
             "language": "Java",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-01T13:03:29Z",
-            "open_issues": 527,
+            "last_commit": "2026-09-02T15:36:10Z",
+            "open_issues": 520,
             "owner": "HMCL-dev",
             "repo": "HMCL",
-            "stars": 9972,
+            "stars": 9979,
             "topics": [
               "javafx",
               "minecraft",
@@ -2583,7 +2583,7 @@
             "open_issues": 66,
             "owner": "Col-E",
             "repo": "Recaf",
-            "stars": 7365,
+            "stars": 7367,
             "topics": [
               "agent",
               "asm",
@@ -2844,7 +2844,7 @@
             "id": 338516784,
             "language": "Java",
             "license": "MIT",
-            "last_commit": "2026-09-01T19:50:49Z",
+            "last_commit": "2026-09-02T20:09:45Z",
             "open_issues": 5,
             "owner": "armin-reichert",
             "repo": "pacman-javafx",
@@ -3019,7 +3019,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-02T00:41:45.947Z",
+    "last_updated": "2026-09-03T00:52:55.029Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome JavaFX libraries, books, frameworks, etc...",
