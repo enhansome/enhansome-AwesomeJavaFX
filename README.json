@@ -69,10 +69,10 @@
             "language": "Java",
             "license": "GPL-3.0",
             "last_commit": "2026-09-01T12:37:23Z",
-            "open_issues": 33,
+            "open_issues": 32,
             "owner": "qupath",
             "repo": "qupath",
-            "stars": 1434,
+            "stars": 1435,
             "topics": [
               "bioimage-analysis",
               "bioimage-informatics",
@@ -1153,7 +1153,7 @@
             "open_issues": 3,
             "owner": "Dansoftowner",
             "repo": "FXTaskbarProgressBar",
-            "stars": 97,
+            "stars": 98,
             "topics": [
               "bridj",
               "java",
@@ -1717,6 +1717,35 @@
         },
         {
           "node_type": "item",
+          "title": "TabPanePro",
+          "description": "An extension of the standard JavaFX TabPane that adds practical features such as custom control areas, custom tab shapes, tab drag-and-drop with edge scrolling, a tab scrollbar, and more.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Techsenger TabPanePro  – A lightweight JavaFX library that extends TabPane with practical features.",
+            "homepage": null,
+            "id": 1004301109,
+            "language": "Java",
+            "license": "GPL-2.0",
+            "last_commit": "2026-08-29T19:51:50Z",
+            "open_issues": 0,
+            "owner": "techsenger",
+            "repo": "tabpanepro",
+            "stars": 29,
+            "topics": [
+              "javafx",
+              "javafx-application",
+              "javafx-components",
+              "javafx-desktop-apps",
+              "javafx-gui",
+              "javafx-library",
+              "javafx-project"
+            ]
+          },
+          "first_seen": "2026-08-28T06:26:18.132Z"
+        },
+        {
+          "node_type": "item",
           "title": "Grid",
           "description": "A Component for grid based games like sudoku or chess.",
           "children": [],
@@ -1735,35 +1764,6 @@
             "topics": [
               "javafx",
               "javafx-library"
-            ]
-          },
-          "first_seen": "2026-08-28T06:26:18.132Z"
-        },
-        {
-          "node_type": "item",
-          "title": "TabPanePro",
-          "description": "An extension of the standard JavaFX TabPane that adds practical features such as custom control areas, custom tab shapes, tab drag-and-drop with edge scrolling, a tab scrollbar, and more.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Techsenger TabPanePro  – A lightweight JavaFX library that extends TabPane with practical features.",
-            "homepage": null,
-            "id": 1004301109,
-            "language": "Java",
-            "license": "GPL-2.0",
-            "last_commit": "2026-08-29T19:51:50Z",
-            "open_issues": 0,
-            "owner": "techsenger",
-            "repo": "tabpanepro",
-            "stars": 28,
-            "topics": [
-              "javafx",
-              "javafx-application",
-              "javafx-components",
-              "javafx-desktop-apps",
-              "javafx-gui",
-              "javafx-library",
-              "javafx-project"
             ]
           },
           "first_seen": "2026-08-28T06:26:18.132Z"
@@ -2489,7 +2489,7 @@
             "open_issues": 0,
             "owner": "techsenger",
             "repo": "shellfx",
-            "stars": 35,
+            "stars": 36,
             "topics": [
               "javafx",
               "javafx-application",
@@ -2554,11 +2554,11 @@
             "id": 37844001,
             "language": "Java",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-04T16:08:33Z",
+            "last_commit": "2026-09-05T12:26:04Z",
             "open_issues": 510,
             "owner": "HMCL-dev",
             "repo": "HMCL",
-            "stars": 9993,
+            "stars": 10002,
             "topics": [
               "javafx",
               "minecraft",
@@ -2583,7 +2583,7 @@
             "open_issues": 66,
             "owner": "Col-E",
             "repo": "Recaf",
-            "stars": 7372,
+            "stars": 7373,
             "topics": [
               "agent",
               "asm",
@@ -2844,7 +2844,7 @@
             "id": 338516784,
             "language": "Java",
             "license": "MIT",
-            "last_commit": "2026-09-04T14:09:37Z",
+            "last_commit": "2026-09-05T21:34:50Z",
             "open_issues": 5,
             "owner": "armin-reichert",
             "repo": "pacman-javafx",
@@ -3019,7 +3019,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-05T00:29:21.107Z",
+    "last_updated": "2026-09-06T00:24:34.692Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome JavaFX libraries, books, frameworks, etc...",
