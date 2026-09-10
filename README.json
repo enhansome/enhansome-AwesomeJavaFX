@@ -46,7 +46,7 @@
             "open_issues": 26,
             "owner": "palexdev",
             "repo": "MaterialFX",
-            "stars": 1438,
+            "stars": 1437,
             "topics": [
               "java",
               "javafx",
@@ -69,7 +69,7 @@
             "language": "Java",
             "license": "GPL-3.0",
             "last_commit": "2026-09-08T10:10:38Z",
-            "open_issues": 34,
+            "open_issues": 35,
             "owner": "qupath",
             "repo": "qupath",
             "stars": 1437,
@@ -336,7 +336,7 @@
             "open_issues": 1,
             "owner": "dlsc-software-consulting-gmbh",
             "repo": "GemsFX",
-            "stars": 621,
+            "stars": 622,
             "topics": []
           },
           "first_seen": "2026-08-28T06:26:18.132Z"
@@ -2029,27 +2029,6 @@
         },
         {
           "node_type": "item",
-          "title": "FluentFxCss",
-          "description": "A fluent, type-safe CSS builder for JavaFX.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A fluent, type-safe CSS builder for JavaFX.",
-            "homepage": null,
-            "id": 987143826,
-            "language": "Java",
-            "license": "NOASSERTION",
-            "last_commit": "2025-06-09T15:58:16Z",
-            "open_issues": 0,
-            "owner": "brunomnsilva",
-            "repo": "FluentFxCSS",
-            "stars": 5,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T06:26:18.132Z"
-        },
-        {
-          "node_type": "item",
           "title": "mvciFX",
           "description": "a Java implementation of the MVCI framework by Dave Barrett, aka PragmaticCoding.",
           "children": [],
@@ -2064,7 +2043,7 @@
             "open_issues": 0,
             "owner": "barmat80",
             "repo": "mvciFX",
-            "stars": 5,
+            "stars": 6,
             "topics": []
           },
           "first_seen": "2026-08-28T06:26:18.132Z"
@@ -2085,6 +2064,27 @@
             "open_issues": 0,
             "owner": "barmat80",
             "repo": "SuggesterFX",
+            "stars": 6,
+            "topics": []
+          },
+          "first_seen": "2026-08-28T06:26:18.132Z"
+        },
+        {
+          "node_type": "item",
+          "title": "FluentFxCss",
+          "description": "A fluent, type-safe CSS builder for JavaFX.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "A fluent, type-safe CSS builder for JavaFX.",
+            "homepage": null,
+            "id": 987143826,
+            "language": "Java",
+            "license": "NOASSERTION",
+            "last_commit": "2025-06-09T15:58:16Z",
+            "open_issues": 0,
+            "owner": "brunomnsilva",
+            "repo": "FluentFxCSS",
             "stars": 5,
             "topics": []
           },
@@ -2485,7 +2485,7 @@
             "id": 936262459,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-08T13:58:06Z",
+            "last_commit": "2026-09-09T14:40:29Z",
             "open_issues": 0,
             "owner": "techsenger",
             "repo": "shellfx",
@@ -2554,11 +2554,11 @@
             "id": 37844001,
             "language": "Java",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-08T13:57:54Z",
-            "open_issues": 498,
+            "last_commit": "2026-09-09T13:00:08Z",
+            "open_issues": 496,
             "owner": "HMCL-dev",
             "repo": "HMCL",
-            "stars": 10027,
+            "stars": 10031,
             "topics": [
               "javafx",
               "minecraft",
@@ -2579,11 +2579,11 @@
             "id": 98499283,
             "language": "Java",
             "license": "MIT",
-            "last_commit": "2026-08-22T01:53:52Z",
-            "open_issues": 66,
+            "last_commit": "2026-09-09T03:14:04Z",
+            "open_issues": 65,
             "owner": "Col-E",
             "repo": "Recaf",
-            "stars": 7377,
+            "stars": 7378,
             "topics": [
               "agent",
               "asm",
@@ -2746,8 +2746,8 @@
             "id": 18281390,
             "language": "Java",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-09T00:23:45Z",
-            "open_issues": 5,
+            "last_commit": "2026-09-09T04:46:28Z",
+            "open_issues": 3,
             "owner": "brunoborges",
             "repo": "fx2048",
             "stars": 294,
@@ -2844,7 +2844,7 @@
             "id": 338516784,
             "language": "Java",
             "license": "MIT",
-            "last_commit": "2026-09-08T19:55:14Z",
+            "last_commit": "2026-09-09T20:17:13Z",
             "open_issues": 5,
             "owner": "armin-reichert",
             "repo": "pacman-javafx",
@@ -3019,7 +3019,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-09T00:53:51.412Z",
+    "last_updated": "2026-09-10T00:43:37.003Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome JavaFX libraries, books, frameworks, etc...",
@@ -3031,7 +3031,7 @@
       "open_issues": 2,
       "owner": "mhrimaz",
       "repo": "AwesomeJavaFX",
-      "stars": 3367,
+      "stars": 3368,
       "topics": [
         "graphics",
         "java",
