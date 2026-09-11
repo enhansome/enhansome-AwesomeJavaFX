@@ -32,6 +32,44 @@
         },
         {
           "node_type": "item",
+          "title": "QuPath",
+          "description": "Open source software for bioimage analysis.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "QuPath - Open-source bioimage analysis for research",
+            "homepage": "https://qupath.github.io",
+            "id": 66772740,
+            "language": "Java",
+            "license": "GPL-3.0",
+            "last_commit": "2026-09-08T10:10:38Z",
+            "open_issues": 35,
+            "owner": "qupath",
+            "repo": "qupath",
+            "stars": 1438,
+            "topics": [
+              "bioimage-analysis",
+              "bioimage-informatics",
+              "cell-analysis",
+              "cell-segmentation",
+              "computational-pathology",
+              "digital-pathology",
+              "groovy",
+              "histology",
+              "image-processing",
+              "imagej",
+              "javafx",
+              "machine-learning",
+              "opencv",
+              "pathology",
+              "tissue-microarray-analysis",
+              "whole-slide-imaging"
+            ]
+          },
+          "first_seen": "2026-08-28T06:26:18.132Z"
+        },
+        {
+          "node_type": "item",
           "title": "MaterialFX",
           "description": "A new well documented and actively developed library which brings material design components to JavaFX and much more.",
           "children": [],
@@ -52,44 +90,6 @@
               "javafx",
               "library",
               "ui"
-            ]
-          },
-          "first_seen": "2026-08-28T06:26:18.132Z"
-        },
-        {
-          "node_type": "item",
-          "title": "QuPath",
-          "description": "Open source software for bioimage analysis.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "QuPath - Open-source bioimage analysis for research",
-            "homepage": "https://qupath.github.io",
-            "id": 66772740,
-            "language": "Java",
-            "license": "GPL-3.0",
-            "last_commit": "2026-09-08T10:10:38Z",
-            "open_issues": 35,
-            "owner": "qupath",
-            "repo": "qupath",
-            "stars": 1437,
-            "topics": [
-              "bioimage-analysis",
-              "bioimage-informatics",
-              "cell-analysis",
-              "cell-segmentation",
-              "computational-pathology",
-              "digital-pathology",
-              "groovy",
-              "histology",
-              "image-processing",
-              "imagej",
-              "javafx",
-              "machine-learning",
-              "opencv",
-              "pathology",
-              "tissue-microarray-analysis",
-              "whole-slide-imaging"
             ]
           },
           "first_seen": "2026-08-28T06:26:18.132Z"
@@ -333,10 +333,10 @@
             "language": "Java",
             "license": "Apache-2.0",
             "last_commit": "2026-09-03T12:43:31Z",
-            "open_issues": 1,
+            "open_issues": 0,
             "owner": "dlsc-software-consulting-gmbh",
             "repo": "GemsFX",
-            "stars": 622,
+            "stars": 621,
             "topics": []
           },
           "first_seen": "2026-08-28T06:26:18.132Z"
@@ -2554,11 +2554,11 @@
             "id": 37844001,
             "language": "Java",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-09T13:00:08Z",
-            "open_issues": 496,
+            "last_commit": "2026-09-10T13:31:28Z",
+            "open_issues": 478,
             "owner": "HMCL-dev",
             "repo": "HMCL",
-            "stars": 10031,
+            "stars": 10037,
             "topics": [
               "javafx",
               "minecraft",
@@ -2583,7 +2583,7 @@
             "open_issues": 65,
             "owner": "Col-E",
             "repo": "Recaf",
-            "stars": 7378,
+            "stars": 7380,
             "topics": [
               "agent",
               "asm",
@@ -2844,11 +2844,11 @@
             "id": 338516784,
             "language": "Java",
             "license": "MIT",
-            "last_commit": "2026-09-09T20:17:13Z",
+            "last_commit": "2026-09-10T20:38:47Z",
             "open_issues": 5,
             "owner": "armin-reichert",
             "repo": "pacman-javafx",
-            "stars": 121,
+            "stars": 122,
             "topics": [
               "javafx",
               "javafx-games",
@@ -3019,7 +3019,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-10T00:43:37.003Z",
+    "last_updated": "2026-09-11T00:42:07.867Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome JavaFX libraries, books, frameworks, etc...",
