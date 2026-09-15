@@ -110,7 +110,7 @@
             "open_issues": 16,
             "owner": "mkpaz",
             "repo": "atlantafx",
-            "stars": 1410,
+            "stars": 1412,
             "topics": [
               "controls",
               "css",
@@ -2554,11 +2554,11 @@
             "id": 37844001,
             "language": "Java",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-12T12:48:58Z",
-            "open_issues": 476,
+            "last_commit": "2026-09-14T13:51:49Z",
+            "open_issues": 473,
             "owner": "HMCL-dev",
             "repo": "HMCL",
-            "stars": 10064,
+            "stars": 10069,
             "topics": [
               "javafx",
               "minecraft",
@@ -2583,7 +2583,7 @@
             "open_issues": 66,
             "owner": "Col-E",
             "repo": "Recaf",
-            "stars": 7387,
+            "stars": 7389,
             "topics": [
               "agent",
               "asm",
@@ -2844,7 +2844,7 @@
             "id": 338516784,
             "language": "Java",
             "license": "MIT",
-            "last_commit": "2026-09-13T17:37:25Z",
+            "last_commit": "2026-09-14T10:42:00Z",
             "open_issues": 5,
             "owner": "armin-reichert",
             "repo": "pacman-javafx",
@@ -3019,7 +3019,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-14T00:32:54.459Z",
+    "last_updated": "2026-09-15T01:04:54.708Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome JavaFX libraries, books, frameworks, etc...",
