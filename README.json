@@ -46,7 +46,7 @@
             "open_issues": 35,
             "owner": "qupath",
             "repo": "qupath",
-            "stars": 1443,
+            "stars": 1444,
             "topics": [
               "bioimage-analysis",
               "bioimage-informatics",
@@ -110,7 +110,7 @@
             "open_issues": 16,
             "owner": "mkpaz",
             "repo": "atlantafx",
-            "stars": 1415,
+            "stars": 1416,
             "topics": [
               "controls",
               "css",
@@ -204,11 +204,11 @@
             "id": 107559907,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-07-17T15:23:30Z",
+            "last_commit": "2026-09-18T12:56:06Z",
             "open_issues": 21,
             "owner": "dlsc-software-consulting-gmbh",
             "repo": "CalendarFX",
-            "stars": 861,
+            "stars": 860,
             "topics": []
           },
           "first_seen": "2026-08-28T06:26:18.132Z"
@@ -2480,12 +2480,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": "Techsenger ShellFX  – A platform for building JavaFX applications using an extended MVP pattern.",
+            "description": "Techsenger ShellFX  – A platform for building JavaFX applications using an extended MVVM pattern.",
             "homepage": null,
             "id": 936262459,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-09T14:40:29Z",
+            "last_commit": "2026-09-18T22:50:17Z",
             "open_issues": 0,
             "owner": "techsenger",
             "repo": "shellfx",
@@ -2499,11 +2499,12 @@
               "javafx-desktop-apps",
               "javafx-gui",
               "javafx-library",
+              "javafx-platform",
               "javafx-project",
-              "mvp",
-              "mvp-architecture",
-              "mvp-library",
-              "mvp-pattern"
+              "mvvm",
+              "mvvm-architecture",
+              "mvvm-library",
+              "mvvm-pattern"
             ]
           },
           "first_seen": "2026-08-28T06:26:18.132Z"
@@ -2554,11 +2555,11 @@
             "id": 37844001,
             "language": "Java",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-17T16:06:50Z",
-            "open_issues": 473,
+            "last_commit": "2026-09-18T13:52:15Z",
+            "open_issues": 474,
             "owner": "HMCL-dev",
             "repo": "HMCL",
-            "stars": 10079,
+            "stars": 10082,
             "topics": [
               "javafx",
               "minecraft",
@@ -2583,7 +2584,7 @@
             "open_issues": 64,
             "owner": "Col-E",
             "repo": "Recaf",
-            "stars": 7390,
+            "stars": 7391,
             "topics": [
               "agent",
               "asm",
@@ -2844,7 +2845,7 @@
             "id": 338516784,
             "language": "Java",
             "license": "MIT",
-            "last_commit": "2026-09-17T15:32:24Z",
+            "last_commit": "2026-09-18T15:31:47Z",
             "open_issues": 5,
             "owner": "armin-reichert",
             "repo": "pacman-javafx",
@@ -3019,7 +3020,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-18T00:54:22.197Z",
+    "last_updated": "2026-09-19T00:48:47.005Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome JavaFX libraries, books, frameworks, etc...",
@@ -3028,10 +3029,10 @@
       "language": null,
       "license": "NOASSERTION",
       "last_commit": "2026-07-07T19:50:39Z",
-      "open_issues": 2,
+      "open_issues": 3,
       "owner": "mhrimaz",
       "repo": "AwesomeJavaFX",
-      "stars": 3369,
+      "stars": 3370,
       "topics": [
         "graphics",
         "java",
