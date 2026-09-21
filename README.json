@@ -138,7 +138,7 @@
             "open_issues": 112,
             "owner": "FXMisc",
             "repo": "RichTextFX",
-            "stars": 1341,
+            "stars": 1342,
             "topics": [
               "java",
               "javafx",
@@ -2485,7 +2485,7 @@
             "id": 936262459,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-19T17:53:21Z",
+            "last_commit": "2026-09-20T21:36:36Z",
             "open_issues": 0,
             "owner": "techsenger",
             "repo": "shellfx",
@@ -2555,11 +2555,11 @@
             "id": 37844001,
             "language": "Java",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-18T13:52:15Z",
-            "open_issues": 480,
+            "last_commit": "2026-09-20T12:38:59Z",
+            "open_issues": 478,
             "owner": "HMCL-dev",
             "repo": "HMCL",
-            "stars": 10091,
+            "stars": 10094,
             "topics": [
               "javafx",
               "minecraft",
@@ -2584,7 +2584,7 @@
             "open_issues": 64,
             "owner": "Col-E",
             "repo": "Recaf",
-            "stars": 7390,
+            "stars": 7391,
             "topics": [
               "agent",
               "asm",
@@ -2845,7 +2845,7 @@
             "id": 338516784,
             "language": "Java",
             "license": "MIT",
-            "last_commit": "2026-09-19T19:47:07Z",
+            "last_commit": "2026-09-20T19:03:58Z",
             "open_issues": 5,
             "owner": "armin-reichert",
             "repo": "pacman-javafx",
@@ -3020,7 +3020,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-20T00:31:00.241Z",
+    "last_updated": "2026-09-21T00:41:01.146Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome JavaFX libraries, books, frameworks, etc...",
@@ -3032,7 +3032,7 @@
       "open_issues": 4,
       "owner": "mhrimaz",
       "repo": "AwesomeJavaFX",
-      "stars": 3371,
+      "stars": 3372,
       "topics": [
         "graphics",
         "java",
