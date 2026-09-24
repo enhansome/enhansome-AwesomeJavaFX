@@ -42,11 +42,11 @@
             "id": 66772740,
             "language": "Java",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-16T17:26:19Z",
+            "last_commit": "2026-09-23T15:38:56Z",
             "open_issues": 36,
             "owner": "qupath",
             "repo": "qupath",
-            "stars": 1447,
+            "stars": 1448,
             "topics": [
               "bioimage-analysis",
               "bioimage-informatics",
@@ -106,7 +106,7 @@
             "id": 475717281,
             "language": "Java",
             "license": "MIT",
-            "last_commit": "2026-09-22T18:08:17Z",
+            "last_commit": "2026-09-23T19:23:15Z",
             "open_issues": 15,
             "owner": "mkpaz",
             "repo": "atlantafx",
@@ -138,7 +138,7 @@
             "open_issues": 112,
             "owner": "FXMisc",
             "repo": "RichTextFX",
-            "stars": 1342,
+            "stars": 1341,
             "topics": [
               "java",
               "javafx",
@@ -309,7 +309,7 @@
             "open_issues": 22,
             "owner": "dlsc-software-consulting-gmbh",
             "repo": "FormsFX",
-            "stars": 705,
+            "stars": 704,
             "topics": [
               "desktop",
               "forms",
@@ -336,7 +336,7 @@
             "open_issues": 0,
             "owner": "dlsc-software-consulting-gmbh",
             "repo": "GemsFX",
-            "stars": 622,
+            "stars": 623,
             "topics": []
           },
           "first_seen": "2026-08-28T06:26:18.132Z"
@@ -547,7 +547,7 @@
             "open_issues": 10,
             "owner": "wiverson",
             "repo": "maven-jpackage-template",
-            "stars": 388,
+            "stars": 386,
             "topics": [
               "cross-platform-javafx",
               "java",
@@ -764,6 +764,30 @@
         },
         {
           "node_type": "item",
+          "title": "Flowless",
+          "description": "Efficient VirtualFlow for JavaFX.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Efficient VirtualFlow for JavaFX",
+            "homepage": null,
+            "id": 21519278,
+            "language": "Java",
+            "license": "BSD-2-Clause",
+            "last_commit": "2025-08-15T14:09:59Z",
+            "open_issues": 22,
+            "owner": "FXMisc",
+            "repo": "Flowless",
+            "stars": 207,
+            "topics": [
+              "javafx",
+              "viewport"
+            ]
+          },
+          "first_seen": "2026-08-28T06:26:18.132Z"
+        },
+        {
+          "node_type": "item",
           "title": "CustomStage",
           "description": "CustomStage is a fully customizable Undecorated JavaFX stage (window) with amazing features.",
           "children": [],
@@ -799,30 +823,6 @@
         },
         {
           "node_type": "item",
-          "title": "Flowless",
-          "description": "Efficient VirtualFlow for JavaFX.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Efficient VirtualFlow for JavaFX",
-            "homepage": null,
-            "id": 21519278,
-            "language": "Java",
-            "license": "BSD-2-Clause",
-            "last_commit": "2025-08-15T14:09:59Z",
-            "open_issues": 22,
-            "owner": "FXMisc",
-            "repo": "Flowless",
-            "stars": 206,
-            "topics": [
-              "javafx",
-              "viewport"
-            ]
-          },
-          "first_seen": "2026-08-28T06:26:18.132Z"
-        },
-        {
-          "node_type": "item",
           "title": "graph editor",
           "description": "A library for creating and editing graph-like diagrams in JavaFX.",
           "children": [],
@@ -833,8 +833,8 @@
             "id": 27490105,
             "language": "Java",
             "license": "EPL-1.0",
-            "last_commit": "2026-09-22T07:00:54Z",
-            "open_issues": 3,
+            "last_commit": "2026-09-23T06:07:52Z",
+            "open_issues": 0,
             "owner": "eckig",
             "repo": "graph-editor",
             "stars": 201,
@@ -1018,7 +1018,7 @@
             "open_issues": 61,
             "owner": "gluonhq",
             "repo": "rich-text-area",
-            "stars": 138,
+            "stars": 137,
             "topics": []
           },
           "first_seen": "2026-08-28T06:26:18.132Z"
@@ -2279,7 +2279,7 @@
             "open_issues": 97,
             "owner": "sialcasa",
             "repo": "mvvmFX",
-            "stars": 525,
+            "stars": 524,
             "topics": []
           },
           "first_seen": "2026-08-28T06:26:18.132Z"
@@ -2560,7 +2560,7 @@
             "open_issues": 479,
             "owner": "HMCL-dev",
             "repo": "HMCL",
-            "stars": 10105,
+            "stars": 10109,
             "topics": [
               "javafx",
               "minecraft",
@@ -2582,10 +2582,10 @@
             "language": "Java",
             "license": "MIT",
             "last_commit": "2026-09-15T23:24:54Z",
-            "open_issues": 64,
+            "open_issues": 65,
             "owner": "Col-E",
             "repo": "Recaf",
-            "stars": 7392,
+            "stars": 7394,
             "topics": [
               "agent",
               "asm",
@@ -2748,8 +2748,8 @@
             "id": 18281390,
             "language": "Java",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-23T00:23:28Z",
-            "open_issues": 4,
+            "last_commit": "2026-09-23T04:16:48Z",
+            "open_issues": 3,
             "owner": "brunoborges",
             "repo": "fx2048",
             "stars": 294,
@@ -2846,7 +2846,7 @@
             "id": 338516784,
             "language": "Java",
             "license": "MIT",
-            "last_commit": "2026-09-22T20:51:59Z",
+            "last_commit": "2026-09-23T20:51:00Z",
             "open_issues": 5,
             "owner": "armin-reichert",
             "repo": "pacman-javafx",
@@ -3021,7 +3021,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-23T01:04:57.662Z",
+    "last_updated": "2026-09-24T00:58:31.574Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome JavaFX libraries, books, frameworks, etc...",
