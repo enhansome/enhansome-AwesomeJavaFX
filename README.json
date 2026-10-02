@@ -19,7 +19,7 @@
             "open_issues": 23,
             "owner": "HanSolo",
             "repo": "tilesfx",
-            "stars": 1520,
+            "stars": 1521,
             "topics": [
               "dashboards",
               "java",
@@ -46,7 +46,7 @@
             "open_issues": 36,
             "owner": "qupath",
             "repo": "qupath",
-            "stars": 1455,
+            "stars": 1456,
             "topics": [
               "bioimage-analysis",
               "bioimage-informatics",
@@ -110,7 +110,7 @@
             "open_issues": 15,
             "owner": "mkpaz",
             "repo": "atlantafx",
-            "stars": 1433,
+            "stars": 1434,
             "topics": [
               "controls",
               "css",
@@ -166,7 +166,7 @@
             "open_issues": 11,
             "owner": "kordamp",
             "repo": "bootstrapfx",
-            "stars": 1052,
+            "stars": 1053,
             "topics": []
           },
           "first_seen": "2026-08-28T06:26:18.132Z"
@@ -232,7 +232,7 @@
             "open_issues": 0,
             "owner": "update4j",
             "repo": "update4j",
-            "stars": 811,
+            "stars": 810,
             "topics": [
               "auto",
               "auto-update",
@@ -489,7 +489,7 @@
             "open_issues": 3,
             "owner": "tanhuang2016",
             "repo": "RedisFX",
-            "stars": 520,
+            "stars": 521,
             "topics": [
               "gui",
               "java",
@@ -840,7 +840,7 @@
             "open_issues": 0,
             "owner": "eckig",
             "repo": "graph-editor",
-            "stars": 201,
+            "stars": 202,
             "topics": [
               "editor",
               "emf",
@@ -1575,8 +1575,8 @@
             "id": 748899028,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-29T08:57:20Z",
-            "open_issues": 12,
+            "last_commit": "2026-10-01T21:12:30Z",
+            "open_issues": 13,
             "owner": "quarkiverse",
             "repo": "quarkus-fx",
             "stars": 49,
@@ -2488,7 +2488,7 @@
             "id": 936262459,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-30T23:34:41Z",
+            "last_commit": "2026-10-01T14:28:08Z",
             "open_issues": 0,
             "owner": "techsenger",
             "repo": "shellfx",
@@ -2560,10 +2560,10 @@
             "language": "Java",
             "license": "GPL-3.0",
             "last_commit": "2026-09-30T12:45:22Z",
-            "open_issues": 493,
+            "open_issues": 498,
             "owner": "HMCL-dev",
             "repo": "HMCL",
-            "stars": 10156,
+            "stars": 10159,
             "topics": [
               "javafx",
               "minecraft",
@@ -2588,7 +2588,7 @@
             "open_issues": 65,
             "owner": "Col-E",
             "repo": "Recaf",
-            "stars": 7406,
+            "stars": 7407,
             "topics": [
               "agent",
               "asm",
@@ -2715,7 +2715,7 @@
             "id": 71999295,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-27T11:20:09Z",
+            "last_commit": "2026-10-01T11:53:09Z",
             "open_issues": 10,
             "owner": "binjr",
             "repo": "binjr",
@@ -2849,7 +2849,7 @@
             "id": 338516784,
             "language": "Java",
             "license": "MIT",
-            "last_commit": "2026-09-30T16:20:15Z",
+            "last_commit": "2026-10-01T14:25:19Z",
             "open_issues": 5,
             "owner": "armin-reichert",
             "repo": "pacman-javafx",
@@ -3024,7 +3024,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-01T01:42:59.674Z",
+    "last_updated": "2026-10-02T01:53:49.180Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome JavaFX libraries, books, frameworks, etc...",
