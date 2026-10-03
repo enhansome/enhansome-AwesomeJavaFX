@@ -19,7 +19,7 @@
             "open_issues": 23,
             "owner": "HanSolo",
             "repo": "tilesfx",
-            "stars": 1521,
+            "stars": 1520,
             "topics": [
               "dashboards",
               "java",
@@ -43,7 +43,7 @@
             "language": "Java",
             "license": "GPL-3.0",
             "last_commit": "2026-09-23T15:38:56Z",
-            "open_issues": 36,
+            "open_issues": 37,
             "owner": "qupath",
             "repo": "qupath",
             "stars": 1456,
@@ -80,7 +80,7 @@
             "id": 304470748,
             "language": "Java",
             "license": "LGPL-3.0",
-            "last_commit": "2026-09-29T17:29:20Z",
+            "last_commit": "2026-10-02T12:34:42Z",
             "open_issues": 26,
             "owner": "palexdev",
             "repo": "MaterialFX",
@@ -141,7 +141,7 @@
             "open_issues": 112,
             "owner": "FXMisc",
             "repo": "RichTextFX",
-            "stars": 1341,
+            "stars": 1340,
             "topics": [
               "java",
               "javafx",
@@ -390,7 +390,7 @@
             "open_issues": 37,
             "owner": "dlsc-software-consulting-gmbh",
             "repo": "PreferencesFX",
-            "stars": 607,
+            "stars": 606,
             "topics": [
               "component",
               "framework",
@@ -486,7 +486,7 @@
             "language": "Java",
             "license": "Apache-2.0",
             "last_commit": "2026-06-27T06:09:41Z",
-            "open_issues": 3,
+            "open_issues": 4,
             "owner": "tanhuang2016",
             "repo": "RedisFX",
             "stars": 521,
@@ -711,7 +711,7 @@
             "language": "Java",
             "license": null,
             "last_commit": "2026-06-30T05:23:11Z",
-            "open_issues": 13,
+            "open_issues": 19,
             "owner": "dooApp",
             "repo": "FXForm2",
             "stars": 232,
@@ -781,7 +781,7 @@
             "open_issues": 22,
             "owner": "FXMisc",
             "repo": "Flowless",
-            "stars": 207,
+            "stars": 206,
             "topics": [
               "javafx",
               "viewport"
@@ -959,7 +959,7 @@
             "open_issues": 11,
             "owner": "goxr3plus",
             "repo": "FX-BorderlessScene",
-            "stars": 154,
+            "stars": 153,
             "topics": [
               "aero-snap",
               "close",
@@ -2324,7 +2324,7 @@
             "open_issues": 31,
             "owner": "roskenet",
             "repo": "springboot-javafx-support",
-            "stars": 429,
+            "stars": 428,
             "topics": [
               "fxml",
               "javafx",
@@ -2488,7 +2488,7 @@
             "id": 936262459,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-01T14:28:08Z",
+            "last_commit": "2026-10-02T20:20:37Z",
             "open_issues": 0,
             "owner": "techsenger",
             "repo": "shellfx",
@@ -2560,10 +2560,10 @@
             "language": "Java",
             "license": "GPL-3.0",
             "last_commit": "2026-09-30T12:45:22Z",
-            "open_issues": 498,
+            "open_issues": 499,
             "owner": "HMCL-dev",
             "repo": "HMCL",
-            "stars": 10159,
+            "stars": 10164,
             "topics": [
               "javafx",
               "minecraft",
@@ -2624,7 +2624,7 @@
             "open_issues": 0,
             "owner": "vran-dev",
             "repo": "PrettyZoo",
-            "stars": 3240,
+            "stars": 3238,
             "topics": [
               "gui",
               "java",
@@ -2849,7 +2849,7 @@
             "id": 338516784,
             "language": "Java",
             "license": "MIT",
-            "last_commit": "2026-10-01T14:25:19Z",
+            "last_commit": "2026-10-02T15:48:43Z",
             "open_issues": 5,
             "owner": "armin-reichert",
             "repo": "pacman-javafx",
@@ -3024,7 +3024,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T01:53:49.180Z",
+    "last_updated": "2026-10-03T01:35:05.043Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome JavaFX libraries, books, frameworks, etc...",
