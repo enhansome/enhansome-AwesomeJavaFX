@@ -489,7 +489,7 @@
             "open_issues": 4,
             "owner": "tanhuang2016",
             "repo": "RedisFX",
-            "stars": 521,
+            "stars": 520,
             "topics": [
               "gui",
               "java",
@@ -518,7 +518,7 @@
             "open_issues": 1,
             "owner": "Typhon0",
             "repo": "AnimateFX",
-            "stars": 517,
+            "stars": 518,
             "topics": [
               "animated",
               "animation",
@@ -2488,7 +2488,7 @@
             "id": 936262459,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-02T20:20:37Z",
+            "last_commit": "2026-10-03T15:40:32Z",
             "open_issues": 0,
             "owner": "techsenger",
             "repo": "shellfx",
@@ -2563,7 +2563,7 @@
             "open_issues": 499,
             "owner": "HMCL-dev",
             "repo": "HMCL",
-            "stars": 10164,
+            "stars": 10172,
             "topics": [
               "javafx",
               "minecraft",
@@ -2624,7 +2624,7 @@
             "open_issues": 0,
             "owner": "vran-dev",
             "repo": "PrettyZoo",
-            "stars": 3238,
+            "stars": 3237,
             "topics": [
               "gui",
               "java",
@@ -2849,7 +2849,7 @@
             "id": 338516784,
             "language": "Java",
             "license": "MIT",
-            "last_commit": "2026-10-02T15:48:43Z",
+            "last_commit": "2026-10-03T20:18:12Z",
             "open_issues": 5,
             "owner": "armin-reichert",
             "repo": "pacman-javafx",
@@ -3024,7 +3024,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T04:29:11.645Z",
+    "last_updated": "2026-10-04T02:16:10.252Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome JavaFX libraries, books, frameworks, etc...",
