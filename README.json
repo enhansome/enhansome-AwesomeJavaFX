@@ -46,7 +46,7 @@
             "open_issues": 37,
             "owner": "qupath",
             "repo": "qupath",
-            "stars": 1456,
+            "stars": 1457,
             "topics": [
               "bioimage-analysis",
               "bioimage-informatics",
@@ -836,7 +836,7 @@
             "id": 27490105,
             "language": "Java",
             "license": "EPL-1.0",
-            "last_commit": "2026-09-30T07:43:23Z",
+            "last_commit": "2026-10-06T07:13:35Z",
             "open_issues": 0,
             "owner": "eckig",
             "repo": "graph-editor",
@@ -2560,10 +2560,10 @@
             "language": "Java",
             "license": "GPL-3.0",
             "last_commit": "2026-10-05T06:54:01Z",
-            "open_issues": 501,
+            "open_issues": 504,
             "owner": "HMCL-dev",
             "repo": "HMCL",
-            "stars": 10183,
+            "stars": 10185,
             "topics": [
               "javafx",
               "minecraft",
@@ -2588,7 +2588,7 @@
             "open_issues": 65,
             "owner": "Col-E",
             "repo": "Recaf",
-            "stars": 7409,
+            "stars": 7410,
             "topics": [
               "agent",
               "asm",
@@ -2624,7 +2624,7 @@
             "open_issues": 0,
             "owner": "vran-dev",
             "repo": "PrettyZoo",
-            "stars": 3237,
+            "stars": 3236,
             "topics": [
               "gui",
               "java",
@@ -2780,7 +2780,7 @@
             "open_issues": 5,
             "owner": "mindolph",
             "repo": "Mindolph",
-            "stars": 201,
+            "stars": 202,
             "topics": [
               "csv",
               "freemind",
@@ -2849,7 +2849,7 @@
             "id": 338516784,
             "language": "Java",
             "license": "MIT",
-            "last_commit": "2026-10-04T21:41:25Z",
+            "last_commit": "2026-10-06T07:25:35Z",
             "open_issues": 5,
             "owner": "armin-reichert",
             "repo": "pacman-javafx",
@@ -3024,7 +3024,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T02:36:18.713Z",
+    "last_updated": "2026-10-06T10:45:42.063Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome JavaFX libraries, books, frameworks, etc...",
