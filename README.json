@@ -19,7 +19,7 @@
             "open_issues": 23,
             "owner": "HanSolo",
             "repo": "tilesfx",
-            "stars": 1520,
+            "stars": 1519,
             "topics": [
               "dashboards",
               "java",
@@ -43,7 +43,7 @@
             "language": "Java",
             "license": "GPL-3.0",
             "last_commit": "2026-09-23T15:38:56Z",
-            "open_issues": 37,
+            "open_issues": 39,
             "owner": "qupath",
             "repo": "qupath",
             "stars": 1457,
@@ -115,7 +115,7 @@
             "open_issues": 26,
             "owner": "palexdev",
             "repo": "MaterialFX",
-            "stars": 1439,
+            "stars": 1438,
             "topics": [
               "java",
               "javafx",
@@ -166,7 +166,7 @@
             "open_issues": 11,
             "owner": "kordamp",
             "repo": "bootstrapfx",
-            "stars": 1053,
+            "stars": 1052,
             "topics": []
           },
           "first_seen": "2026-08-28T06:26:18.132Z"
@@ -463,7 +463,7 @@
             "open_issues": 18,
             "owner": "ReactiveX",
             "repo": "RxJavaFX",
-            "stars": 526,
+            "stars": 525,
             "topics": [
               "java",
               "javafx",
@@ -836,7 +836,7 @@
             "id": 27490105,
             "language": "Java",
             "license": "EPL-1.0",
-            "last_commit": "2026-10-06T12:53:09Z",
+            "last_commit": "2026-10-07T10:50:56Z",
             "open_issues": 0,
             "owner": "eckig",
             "repo": "graph-editor",
@@ -945,6 +945,38 @@
         },
         {
           "node_type": "item",
+          "title": "Actlist",
+          "description": "Actlist is a utility platform to execute your own action list easily and simply.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": ":package: Actlist is a utility platform to execute your own action list easily and simply.",
+            "homepage": "https://actlist.io",
+            "id": 76278143,
+            "language": "Java",
+            "license": "LGPL-3.0",
+            "last_commit": "2023-12-17T15:49:34Z",
+            "open_issues": 2,
+            "owner": "actlist",
+            "repo": "actlist",
+            "stars": 153,
+            "topics": [
+              "desktop",
+              "desktop-application",
+              "java",
+              "javafx",
+              "javafx-application",
+              "javafx-desktop-apps",
+              "javafx-frameworks",
+              "platform",
+              "utilities",
+              "utility"
+            ]
+          },
+          "first_seen": "2026-08-28T06:26:18.132Z"
+        },
+        {
+          "node_type": "item",
           "title": "FX-BorderlessScene",
           "description": "Undecorated JavaFX Scene with implemented move, resize, minimise, maximise, close and Windows Aero Snap controls.",
           "children": [],
@@ -969,38 +1001,6 @@
               "maximize",
               "minimize",
               "windows"
-            ]
-          },
-          "first_seen": "2026-08-28T06:26:18.132Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Actlist",
-          "description": "Actlist is a utility platform to execute your own action list easily and simply.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": ":package: Actlist is a utility platform to execute your own action list easily and simply.",
-            "homepage": "https://actlist.io",
-            "id": 76278143,
-            "language": "Java",
-            "license": "LGPL-3.0",
-            "last_commit": "2023-12-17T15:49:34Z",
-            "open_issues": 2,
-            "owner": "actlist",
-            "repo": "actlist",
-            "stars": 152,
-            "topics": [
-              "desktop",
-              "desktop-application",
-              "java",
-              "javafx",
-              "javafx-application",
-              "javafx-desktop-apps",
-              "javafx-frameworks",
-              "platform",
-              "utilities",
-              "utility"
             ]
           },
           "first_seen": "2026-08-28T06:26:18.132Z"
@@ -2488,7 +2488,7 @@
             "id": 936262459,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-06T13:13:22Z",
+            "last_commit": "2026-10-07T23:11:45Z",
             "open_issues": 0,
             "owner": "techsenger",
             "repo": "shellfx",
@@ -2560,10 +2560,10 @@
             "language": "Java",
             "license": "GPL-3.0",
             "last_commit": "2026-10-05T06:54:01Z",
-            "open_issues": 510,
+            "open_issues": 509,
             "owner": "HMCL-dev",
             "repo": "HMCL",
-            "stars": 10188,
+            "stars": 10194,
             "topics": [
               "javafx",
               "minecraft",
@@ -2585,7 +2585,7 @@
             "language": "Java",
             "license": "MIT",
             "last_commit": "2026-09-26T16:06:18Z",
-            "open_issues": 65,
+            "open_issues": 64,
             "owner": "Col-E",
             "repo": "Recaf",
             "stars": 7412,
@@ -2751,8 +2751,8 @@
             "id": 18281390,
             "language": "Java",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-07T00:23:39Z",
-            "open_issues": 4,
+            "last_commit": "2026-10-07T16:33:40Z",
+            "open_issues": 3,
             "owner": "brunoborges",
             "repo": "fx2048",
             "stars": 294,
@@ -2849,7 +2849,7 @@
             "id": 338516784,
             "language": "Java",
             "license": "MIT",
-            "last_commit": "2026-10-06T07:25:35Z",
+            "last_commit": "2026-10-07T08:32:29Z",
             "open_issues": 5,
             "owner": "armin-reichert",
             "repo": "pacman-javafx",
@@ -2936,7 +2936,7 @@
             "open_issues": 0,
             "owner": "mfl28",
             "repo": "BoundingBoxEditor",
-            "stars": 57,
+            "stars": 58,
             "topics": [
               "annotation-tool",
               "bounding-boxes",
@@ -3024,7 +3024,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-07T01:54:39.135Z",
+    "last_updated": "2026-10-08T02:22:24.410Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome JavaFX libraries, books, frameworks, etc...",
@@ -3036,7 +3036,7 @@
       "open_issues": 4,
       "owner": "mhrimaz",
       "repo": "AwesomeJavaFX",
-      "stars": 3376,
+      "stars": 3375,
       "topics": [
         "graphics",
         "java",
