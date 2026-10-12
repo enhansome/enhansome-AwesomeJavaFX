@@ -84,7 +84,7 @@
             "open_issues": 16,
             "owner": "mkpaz",
             "repo": "atlantafx",
-            "stars": 1442,
+            "stars": 1445,
             "topics": [
               "controls",
               "css",
@@ -166,7 +166,7 @@
             "open_issues": 11,
             "owner": "kordamp",
             "repo": "bootstrapfx",
-            "stars": 1052,
+            "stars": 1051,
             "topics": []
           },
           "first_seen": "2026-08-28T06:26:18.132Z"
@@ -187,7 +187,7 @@
             "open_issues": 159,
             "owner": "TestFX",
             "repo": "TestFX",
-            "stars": 977,
+            "stars": 978,
             "topics": [
               "javafx",
               "testfx"
@@ -339,7 +339,7 @@
             "open_issues": 1,
             "owner": "dlsc-software-consulting-gmbh",
             "repo": "GemsFX",
-            "stars": 623,
+            "stars": 624,
             "topics": []
           },
           "first_seen": "2026-08-28T06:26:18.132Z"
@@ -2559,11 +2559,11 @@
             "id": 37844001,
             "language": "Java",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-10T13:33:21Z",
-            "open_issues": 497,
+            "last_commit": "2026-10-11T13:47:13Z",
+            "open_issues": 492,
             "owner": "HMCL-dev",
             "repo": "HMCL",
-            "stars": 10212,
+            "stars": 10222,
             "topics": [
               "javafx",
               "minecraft",
@@ -2588,7 +2588,7 @@
             "open_issues": 64,
             "owner": "Col-E",
             "repo": "Recaf",
-            "stars": 7418,
+            "stars": 7422,
             "topics": [
               "agent",
               "asm",
@@ -2624,7 +2624,7 @@
             "open_issues": 0,
             "owner": "vran-dev",
             "repo": "PrettyZoo",
-            "stars": 3237,
+            "stars": 3238,
             "topics": [
               "gui",
               "java",
@@ -2849,7 +2849,7 @@
             "id": 338516784,
             "language": "Java",
             "license": "MIT",
-            "last_commit": "2026-10-10T14:53:43Z",
+            "last_commit": "2026-10-11T14:03:08Z",
             "open_issues": 5,
             "owner": "armin-reichert",
             "repo": "pacman-javafx",
@@ -2932,7 +2932,7 @@
             "id": 193731921,
             "language": "Java",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-10T18:11:33Z",
+            "last_commit": "2026-10-11T18:13:24Z",
             "open_issues": 1,
             "owner": "mfl28",
             "repo": "BoundingBoxEditor",
@@ -3024,7 +3024,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-11T01:25:20.800Z",
+    "last_updated": "2026-10-12T01:55:33.411Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome JavaFX libraries, books, frameworks, etc...",
