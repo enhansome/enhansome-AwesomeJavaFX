@@ -19,7 +19,7 @@
             "open_issues": 23,
             "owner": "HanSolo",
             "repo": "tilesfx",
-            "stars": 1518,
+            "stars": 1519,
             "topics": [
               "dashboards",
               "java",
@@ -84,7 +84,7 @@
             "open_issues": 16,
             "owner": "mkpaz",
             "repo": "atlantafx",
-            "stars": 1445,
+            "stars": 1446,
             "topics": [
               "controls",
               "css",
@@ -115,7 +115,7 @@
             "open_issues": 26,
             "owner": "palexdev",
             "repo": "MaterialFX",
-            "stars": 1437,
+            "stars": 1438,
             "topics": [
               "java",
               "javafx",
@@ -141,7 +141,7 @@
             "open_issues": 112,
             "owner": "FXMisc",
             "repo": "RichTextFX",
-            "stars": 1341,
+            "stars": 1342,
             "topics": [
               "java",
               "javafx",
@@ -166,7 +166,7 @@
             "open_issues": 11,
             "owner": "kordamp",
             "repo": "bootstrapfx",
-            "stars": 1051,
+            "stars": 1052,
             "topics": []
           },
           "first_seen": "2026-08-28T06:26:18.132Z"
@@ -187,7 +187,7 @@
             "open_issues": 160,
             "owner": "TestFX",
             "repo": "TestFX",
-            "stars": 978,
+            "stars": 979,
             "topics": [
               "javafx",
               "testfx"
@@ -1579,7 +1579,7 @@
             "open_issues": 12,
             "owner": "quarkiverse",
             "repo": "quarkus-fx",
-            "stars": 49,
+            "stars": 50,
             "topics": [
               "javafx",
               "quarkus",
@@ -2559,11 +2559,11 @@
             "id": 37844001,
             "language": "Java",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-16T13:51:42Z",
-            "open_issues": 483,
+            "last_commit": "2026-10-17T12:38:36Z",
+            "open_issues": 489,
             "owner": "HMCL-dev",
             "repo": "HMCL",
-            "stars": 10246,
+            "stars": 10254,
             "topics": [
               "javafx",
               "minecraft",
@@ -2588,7 +2588,7 @@
             "open_issues": 62,
             "owner": "Col-E",
             "repo": "Recaf",
-            "stars": 7437,
+            "stars": 7436,
             "topics": [
               "agent",
               "asm",
@@ -2624,7 +2624,7 @@
             "open_issues": 0,
             "owner": "vran-dev",
             "repo": "PrettyZoo",
-            "stars": 3236,
+            "stars": 3237,
             "topics": [
               "gui",
               "java",
@@ -2849,7 +2849,7 @@
             "id": 338516784,
             "language": "Java",
             "license": "MIT",
-            "last_commit": "2026-10-16T12:14:51Z",
+            "last_commit": "2026-10-17T08:42:20Z",
             "open_issues": 5,
             "owner": "armin-reichert",
             "repo": "pacman-javafx",
@@ -2932,7 +2932,7 @@
             "id": 193731921,
             "language": "Java",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-13T04:56:40Z",
+            "last_commit": "2026-10-17T16:09:11Z",
             "open_issues": 0,
             "owner": "mfl28",
             "repo": "BoundingBoxEditor",
@@ -3024,7 +3024,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-17T00:54:49.321Z",
+    "last_updated": "2026-10-18T00:30:35.966Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome JavaFX libraries, books, frameworks, etc...",
