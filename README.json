@@ -42,8 +42,8 @@
             "id": 66772740,
             "language": "Java",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-14T06:22:17Z",
-            "open_issues": 37,
+            "last_commit": "2026-10-18T14:58:19Z",
+            "open_issues": 35,
             "owner": "qupath",
             "repo": "qupath",
             "stars": 1464,
@@ -115,7 +115,7 @@
             "open_issues": 26,
             "owner": "palexdev",
             "repo": "MaterialFX",
-            "stars": 1438,
+            "stars": 1439,
             "topics": [
               "java",
               "javafx",
@@ -489,7 +489,7 @@
             "open_issues": 1,
             "owner": "Typhon0",
             "repo": "AnimateFX",
-            "stars": 519,
+            "stars": 520,
             "topics": [
               "animated",
               "animation",
@@ -899,7 +899,7 @@
             "open_issues": 1,
             "owner": "iamgio",
             "repo": "animated",
-            "stars": 193,
+            "stars": 194,
             "topics": [
               "animated-javafx",
               "animation",
@@ -1135,7 +1135,7 @@
             "open_issues": 2,
             "owner": "stefaneidelloth",
             "repo": "javafx-d3",
-            "stars": 105,
+            "stars": 104,
             "topics": []
           },
           "first_seen": "2026-08-28T06:26:18.132Z"
@@ -2488,7 +2488,7 @@
             "id": 936262459,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-14T14:46:07Z",
+            "last_commit": "2026-10-18T23:04:14Z",
             "open_issues": 0,
             "owner": "techsenger",
             "repo": "shellfx",
@@ -2559,11 +2559,11 @@
             "id": 37844001,
             "language": "Java",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-17T12:38:36Z",
-            "open_issues": 489,
+            "last_commit": "2026-10-18T13:15:35Z",
+            "open_issues": 493,
             "owner": "HMCL-dev",
             "repo": "HMCL",
-            "stars": 10254,
+            "stars": 10260,
             "topics": [
               "javafx",
               "minecraft",
@@ -2584,11 +2584,11 @@
             "id": 98499283,
             "language": "Java",
             "license": "MIT",
-            "last_commit": "2026-10-16T06:13:50Z",
+            "last_commit": "2026-10-18T05:54:47Z",
             "open_issues": 62,
             "owner": "Col-E",
             "repo": "Recaf",
-            "stars": 7436,
+            "stars": 7438,
             "topics": [
               "agent",
               "asm",
@@ -2849,7 +2849,7 @@
             "id": 338516784,
             "language": "Java",
             "license": "MIT",
-            "last_commit": "2026-10-17T08:42:20Z",
+            "last_commit": "2026-10-18T10:44:40Z",
             "open_issues": 5,
             "owner": "armin-reichert",
             "repo": "pacman-javafx",
@@ -3024,7 +3024,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-18T00:30:35.966Z",
+    "last_updated": "2026-10-19T00:37:51.101Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome JavaFX libraries, books, frameworks, etc...",
@@ -3036,7 +3036,7 @@
       "open_issues": 4,
       "owner": "mhrimaz",
       "repo": "AwesomeJavaFX",
-      "stars": 3376,
+      "stars": 3377,
       "topics": [
         "graphics",
         "java",
