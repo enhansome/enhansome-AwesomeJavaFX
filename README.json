@@ -84,7 +84,7 @@
             "open_issues": 16,
             "owner": "mkpaz",
             "repo": "atlantafx",
-            "stars": 1449,
+            "stars": 1451,
             "topics": [
               "controls",
               "css",
@@ -836,7 +836,7 @@
             "id": 27490105,
             "language": "Java",
             "license": "EPL-1.0",
-            "last_commit": "2026-10-07T10:50:56Z",
+            "last_commit": "2026-10-20T12:31:59Z",
             "open_issues": 0,
             "owner": "eckig",
             "repo": "graph-editor",
@@ -2489,10 +2489,10 @@
             "language": "Java",
             "license": "Apache-2.0",
             "last_commit": "2026-10-19T13:37:46Z",
-            "open_issues": 0,
+            "open_issues": 1,
             "owner": "techsenger",
             "repo": "shellfx",
-            "stars": 43,
+            "stars": 44,
             "topics": [
               "javafx",
               "javafx-application",
@@ -2559,11 +2559,11 @@
             "id": 37844001,
             "language": "Java",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-19T12:55:48Z",
-            "open_issues": 495,
+            "last_commit": "2026-10-20T13:27:59Z",
+            "open_issues": 496,
             "owner": "HMCL-dev",
             "repo": "HMCL",
-            "stars": 10264,
+            "stars": 10456,
             "topics": [
               "javafx",
               "minecraft",
@@ -2588,7 +2588,7 @@
             "open_issues": 62,
             "owner": "Col-E",
             "repo": "Recaf",
-            "stars": 7439,
+            "stars": 7442,
             "topics": [
               "agent",
               "asm",
@@ -2624,7 +2624,7 @@
             "open_issues": 0,
             "owner": "vran-dev",
             "repo": "PrettyZoo",
-            "stars": 3236,
+            "stars": 3235,
             "topics": [
               "gui",
               "java",
@@ -2715,7 +2715,7 @@
             "id": 71999295,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-16T10:20:33Z",
+            "last_commit": "2026-10-20T06:26:30Z",
             "open_issues": 10,
             "owner": "binjr",
             "repo": "binjr",
@@ -3024,7 +3024,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-20T01:22:48.008Z",
+    "last_updated": "2026-10-21T01:09:04.554Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome JavaFX libraries, books, frameworks, etc...",
