@@ -84,7 +84,7 @@
             "open_issues": 16,
             "owner": "mkpaz",
             "repo": "atlantafx",
-            "stars": 1453,
+            "stars": 1454,
             "topics": [
               "controls",
               "css",
@@ -141,7 +141,7 @@
             "open_issues": 112,
             "owner": "FXMisc",
             "repo": "RichTextFX",
-            "stars": 1342,
+            "stars": 1343,
             "topics": [
               "java",
               "javafx",
@@ -2488,8 +2488,8 @@
             "id": 936262459,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-21T15:02:45Z",
-            "open_issues": 1,
+            "last_commit": "2026-10-22T11:29:00Z",
+            "open_issues": 0,
             "owner": "techsenger",
             "repo": "shellfx",
             "stars": 44,
@@ -2559,11 +2559,11 @@
             "id": 37844001,
             "language": "Java",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-21T18:15:15Z",
+            "last_commit": "2026-10-22T13:27:52Z",
             "open_issues": 497,
             "owner": "HMCL-dev",
             "repo": "HMCL",
-            "stars": 10540,
+            "stars": 10585,
             "topics": [
               "javafx",
               "minecraft",
@@ -2849,7 +2849,7 @@
             "id": 338516784,
             "language": "Java",
             "license": "MIT",
-            "last_commit": "2026-10-21T09:05:10Z",
+            "last_commit": "2026-10-22T14:17:31Z",
             "open_issues": 5,
             "owner": "armin-reichert",
             "repo": "pacman-javafx",
@@ -3024,7 +3024,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-22T01:06:17.622Z",
+    "last_updated": "2026-10-23T01:06:44.587Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome JavaFX libraries, books, frameworks, etc...",
@@ -3036,7 +3036,7 @@
       "open_issues": 4,
       "owner": "mhrimaz",
       "repo": "AwesomeJavaFX",
-      "stars": 3378,
+      "stars": 3377,
       "topics": [
         "graphics",
         "java",
