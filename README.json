@@ -115,7 +115,7 @@
             "open_issues": 26,
             "owner": "palexdev",
             "repo": "MaterialFX",
-            "stars": 1436,
+            "stars": 1437,
             "topics": [
               "java",
               "javafx",
@@ -475,6 +475,35 @@
         },
         {
           "node_type": "item",
+          "title": "RedisDesktopManagerFX",
+          "description": "RedisDesktopManagerFX is a simple Redis GUI created by JavaFX.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "🚀 Lightweight Redis GUI 🌐Full platform support🔥为爱发电💞",
+            "homepage": "https://redisfx.tanh.site",
+            "id": 666209560,
+            "language": "Java",
+            "license": "Apache-2.0",
+            "last_commit": "2026-06-27T06:09:41Z",
+            "open_issues": 3,
+            "owner": "tanhuang2016",
+            "repo": "RedisFX",
+            "stars": 522,
+            "topics": [
+              "gui",
+              "java",
+              "javafx",
+              "jedis",
+              "redis",
+              "redis-client",
+              "redis-gui"
+            ]
+          },
+          "first_seen": "2026-08-28T06:26:18.132Z"
+        },
+        {
+          "node_type": "item",
           "title": "AnimateFX",
           "description": "A JavaFX library containing ready-to-use animations.",
           "children": [],
@@ -501,35 +530,6 @@
               "library",
               "ui",
               "ui-design"
-            ]
-          },
-          "first_seen": "2026-08-28T06:26:18.132Z"
-        },
-        {
-          "node_type": "item",
-          "title": "RedisDesktopManagerFX",
-          "description": "RedisDesktopManagerFX is a simple Redis GUI created by JavaFX.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "🚀 Lightweight Redis GUI 🌐Full platform support🔥为爱发电💞",
-            "homepage": "https://redisfx.tanh.site",
-            "id": 666209560,
-            "language": "Java",
-            "license": "Apache-2.0",
-            "last_commit": "2026-06-27T06:09:41Z",
-            "open_issues": 3,
-            "owner": "tanhuang2016",
-            "repo": "RedisFX",
-            "stars": 521,
-            "topics": [
-              "gui",
-              "java",
-              "javafx",
-              "jedis",
-              "redis",
-              "redis-client",
-              "redis-gui"
             ]
           },
           "first_seen": "2026-08-28T06:26:18.132Z"
@@ -693,7 +693,7 @@
             "open_issues": 2,
             "owner": "effad",
             "repo": "ValidatorFX",
-            "stars": 253,
+            "stars": 254,
             "topics": []
           },
           "first_seen": "2026-08-28T06:26:18.132Z"
@@ -991,7 +991,7 @@
             "open_issues": 11,
             "owner": "goxr3plus",
             "repo": "FX-BorderlessScene",
-            "stars": 153,
+            "stars": 152,
             "topics": [
               "aero-snap",
               "close",
@@ -1754,7 +1754,7 @@
             "id": 1004301109,
             "language": "Java",
             "license": "GPL-2.0",
-            "last_commit": "2026-08-29T19:51:50Z",
+            "last_commit": "2026-10-31T08:24:51Z",
             "open_issues": 0,
             "owner": "techsenger",
             "repo": "tabpanepro",
@@ -2488,7 +2488,7 @@
             "id": 936262459,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-30T14:08:29Z",
+            "last_commit": "2026-10-31T20:29:54Z",
             "open_issues": 0,
             "owner": "techsenger",
             "repo": "shellfx",
@@ -2559,11 +2559,11 @@
             "id": 37844001,
             "language": "Java",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-30T13:28:13Z",
-            "open_issues": 517,
+            "last_commit": "2026-10-31T13:56:29Z",
+            "open_issues": 523,
             "owner": "HMCL-dev",
             "repo": "HMCL",
-            "stars": 10826,
+            "stars": 10844,
             "topics": [
               "javafx",
               "minecraft",
@@ -2588,7 +2588,7 @@
             "open_issues": 61,
             "owner": "Col-E",
             "repo": "Recaf",
-            "stars": 7449,
+            "stars": 7451,
             "topics": [
               "agent",
               "asm",
@@ -2715,7 +2715,7 @@
             "id": 71999295,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-30T14:24:29Z",
+            "last_commit": "2026-10-31T13:08:52Z",
             "open_issues": 12,
             "owner": "binjr",
             "repo": "binjr",
@@ -2849,7 +2849,7 @@
             "id": 338516784,
             "language": "Java",
             "license": "MIT",
-            "last_commit": "2026-10-30T10:19:32Z",
+            "last_commit": "2026-10-31T16:23:28Z",
             "open_issues": 5,
             "owner": "armin-reichert",
             "repo": "pacman-javafx",
@@ -3024,7 +3024,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-31T01:55:53.363Z",
+    "last_updated": "2026-11-01T01:41:51.233Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome JavaFX libraries, books, frameworks, etc...",
