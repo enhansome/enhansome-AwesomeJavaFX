@@ -335,7 +335,7 @@
             "id": 207596279,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-11T15:17:29Z",
+            "last_commit": "2026-11-12T17:08:07Z",
             "open_issues": 0,
             "owner": "dlsc-software-consulting-gmbh",
             "repo": "GemsFX",
@@ -550,7 +550,7 @@
             "open_issues": 10,
             "owner": "wiverson",
             "repo": "maven-jpackage-template",
-            "stars": 389,
+            "stars": 388,
             "topics": [
               "cross-platform-javafx",
               "java",
@@ -602,7 +602,7 @@
             "open_issues": 1,
             "owner": "dustinkredmond",
             "repo": "FXTrayIcon",
-            "stars": 366,
+            "stars": 367,
             "topics": [
               "awt",
               "awt-menuitems",
@@ -1758,7 +1758,7 @@
             "open_issues": 0,
             "owner": "techsenger",
             "repo": "tabpanepro",
-            "stars": 28,
+            "stars": 27,
             "topics": [
               "javafx",
               "javafx-application",
@@ -2224,7 +2224,7 @@
             "open_issues": 197,
             "owner": "edvin",
             "repo": "tornadofx",
-            "stars": 3627,
+            "stars": 3626,
             "topics": [
               "desktop",
               "javafx",
@@ -2377,7 +2377,7 @@
             "open_issues": 8,
             "owner": "TomasMikula",
             "repo": "EasyBind",
-            "stars": 156,
+            "stars": 155,
             "topics": []
           },
           "first_seen": "2026-08-28T06:26:18.132Z"
@@ -2488,7 +2488,7 @@
             "id": 936262459,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-11T01:32:00Z",
+            "last_commit": "2026-11-12T22:39:13Z",
             "open_issues": 0,
             "owner": "techsenger",
             "repo": "shellfx",
@@ -2559,11 +2559,11 @@
             "id": 37844001,
             "language": "Java",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-12T02:36:02Z",
-            "open_issues": 530,
+            "last_commit": "2026-11-12T13:47:57Z",
+            "open_issues": 527,
             "owner": "HMCL-dev",
             "repo": "HMCL",
-            "stars": 10955,
+            "stars": 10960,
             "topics": [
               "javafx",
               "minecraft",
@@ -2588,7 +2588,7 @@
             "open_issues": 61,
             "owner": "Col-E",
             "repo": "Recaf",
-            "stars": 7460,
+            "stars": 7465,
             "topics": [
               "agent",
               "asm",
@@ -2624,7 +2624,7 @@
             "open_issues": 0,
             "owner": "vran-dev",
             "repo": "PrettyZoo",
-            "stars": 3230,
+            "stars": 3229,
             "topics": [
               "gui",
               "java",
@@ -2849,7 +2849,7 @@
             "id": 338516784,
             "language": "Java",
             "license": "MIT",
-            "last_commit": "2026-11-11T13:34:58Z",
+            "last_commit": "2026-11-12T11:14:19Z",
             "open_issues": 5,
             "owner": "armin-reichert",
             "repo": "pacman-javafx",
@@ -3024,7 +3024,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-12T03:29:53.906Z",
+    "last_updated": "2026-11-13T03:03:18.991Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome JavaFX libraries, books, frameworks, etc...",
@@ -3036,7 +3036,7 @@
       "open_issues": 4,
       "owner": "mhrimaz",
       "repo": "AwesomeJavaFX",
-      "stars": 3377,
+      "stars": 3378,
       "topics": [
         "graphics",
         "java",
