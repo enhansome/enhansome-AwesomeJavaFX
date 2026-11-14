@@ -42,7 +42,7 @@
             "id": 66772740,
             "language": "Java",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-11T18:26:48Z",
+            "last_commit": "2026-11-13T08:56:46Z",
             "open_issues": 35,
             "owner": "qupath",
             "repo": "qupath",
@@ -312,7 +312,7 @@
             "open_issues": 22,
             "owner": "dlsc-software-consulting-gmbh",
             "repo": "FormsFX",
-            "stars": 706,
+            "stars": 705,
             "topics": [
               "desktop",
               "forms",
@@ -335,11 +335,11 @@
             "id": 207596279,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-12T17:08:07Z",
+            "last_commit": "2026-11-13T17:05:41Z",
             "open_issues": 0,
             "owner": "dlsc-software-consulting-gmbh",
             "repo": "GemsFX",
-            "stars": 624,
+            "stars": 625,
             "topics": []
           },
           "first_seen": "2026-08-28T06:26:18.132Z"
@@ -2282,7 +2282,7 @@
             "open_issues": 97,
             "owner": "sialcasa",
             "repo": "mvvmFX",
-            "stars": 523,
+            "stars": 522,
             "topics": []
           },
           "first_seen": "2026-08-28T06:26:18.132Z"
@@ -2488,7 +2488,7 @@
             "id": 936262459,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-12T22:39:13Z",
+            "last_commit": "2026-11-13T15:24:45Z",
             "open_issues": 0,
             "owner": "techsenger",
             "repo": "shellfx",
@@ -2559,11 +2559,11 @@
             "id": 37844001,
             "language": "Java",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-12T13:47:57Z",
-            "open_issues": 527,
+            "last_commit": "2026-11-13T13:58:45Z",
+            "open_issues": 525,
             "owner": "HMCL-dev",
             "repo": "HMCL",
-            "stars": 10960,
+            "stars": 10967,
             "topics": [
               "javafx",
               "minecraft",
@@ -2588,7 +2588,7 @@
             "open_issues": 61,
             "owner": "Col-E",
             "repo": "Recaf",
-            "stars": 7465,
+            "stars": 7467,
             "topics": [
               "agent",
               "asm",
@@ -2715,7 +2715,7 @@
             "id": 71999295,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-11T17:40:00Z",
+            "last_commit": "2026-11-13T15:06:38Z",
             "open_issues": 12,
             "owner": "binjr",
             "repo": "binjr",
@@ -2849,7 +2849,7 @@
             "id": 338516784,
             "language": "Java",
             "license": "MIT",
-            "last_commit": "2026-11-12T11:14:19Z",
+            "last_commit": "2026-11-13T15:02:39Z",
             "open_issues": 5,
             "owner": "armin-reichert",
             "repo": "pacman-javafx",
@@ -3024,7 +3024,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-13T03:03:18.991Z",
+    "last_updated": "2026-11-14T02:49:00.865Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome JavaFX libraries, books, frameworks, etc...",
