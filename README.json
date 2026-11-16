@@ -46,7 +46,7 @@
             "open_issues": 35,
             "owner": "qupath",
             "repo": "qupath",
-            "stars": 1476,
+            "stars": 1477,
             "topics": [
               "bioimage-analysis",
               "bioimage-informatics",
@@ -291,7 +291,7 @@
             "open_issues": 56,
             "owner": "edvin",
             "repo": "fxlauncher",
-            "stars": 729,
+            "stars": 730,
             "topics": []
           },
           "first_seen": "2026-08-28T06:26:18.132Z"
@@ -2559,11 +2559,11 @@
             "id": 37844001,
             "language": "Java",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-14T13:45:32Z",
-            "open_issues": 538,
+            "last_commit": "2026-11-15T13:27:21Z",
+            "open_issues": 528,
             "owner": "HMCL-dev",
             "repo": "HMCL",
-            "stars": 10984,
+            "stars": 10996,
             "topics": [
               "javafx",
               "minecraft",
@@ -2588,7 +2588,7 @@
             "open_issues": 61,
             "owner": "Col-E",
             "repo": "Recaf",
-            "stars": 7467,
+            "stars": 7472,
             "topics": [
               "agent",
               "asm",
@@ -2715,7 +2715,7 @@
             "id": 71999295,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-13T15:06:38Z",
+            "last_commit": "2026-11-15T11:45:53Z",
             "open_issues": 12,
             "owner": "binjr",
             "repo": "binjr",
@@ -3024,7 +3024,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-15T02:17:51.373Z",
+    "last_updated": "2026-11-16T02:29:46.348Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome JavaFX libraries, books, frameworks, etc...",
