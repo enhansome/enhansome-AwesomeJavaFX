@@ -42,11 +42,11 @@
             "id": 66772740,
             "language": "Java",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-13T08:56:46Z",
+            "last_commit": "2026-11-16T16:58:03Z",
             "open_issues": 35,
             "owner": "qupath",
             "repo": "qupath",
-            "stars": 1477,
+            "stars": 1478,
             "topics": [
               "bioimage-analysis",
               "bioimage-informatics",
@@ -84,7 +84,7 @@
             "open_issues": 18,
             "owner": "mkpaz",
             "repo": "atlantafx",
-            "stars": 1470,
+            "stars": 1469,
             "topics": [
               "controls",
               "css",
@@ -207,7 +207,7 @@
             "id": 107559907,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-02T11:17:20Z",
+            "last_commit": "2026-11-17T03:24:34Z",
             "open_issues": 28,
             "owner": "dlsc-software-consulting-gmbh",
             "repo": "CalendarFX",
@@ -312,7 +312,7 @@
             "open_issues": 22,
             "owner": "dlsc-software-consulting-gmbh",
             "repo": "FormsFX",
-            "stars": 705,
+            "stars": 704,
             "topics": [
               "desktop",
               "forms",
@@ -335,7 +335,7 @@
             "id": 207596279,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-13T17:05:41Z",
+            "last_commit": "2026-11-16T16:42:16Z",
             "open_issues": 0,
             "owner": "dlsc-software-consulting-gmbh",
             "repo": "GemsFX",
@@ -2224,7 +2224,7 @@
             "open_issues": 197,
             "owner": "edvin",
             "repo": "tornadofx",
-            "stars": 3626,
+            "stars": 3625,
             "topics": [
               "desktop",
               "javafx",
@@ -2488,7 +2488,7 @@
             "id": 936262459,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-13T15:24:45Z",
+            "last_commit": "2026-11-16T22:52:47Z",
             "open_issues": 0,
             "owner": "techsenger",
             "repo": "shellfx",
@@ -2559,11 +2559,11 @@
             "id": 37844001,
             "language": "Java",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-15T13:27:21Z",
-            "open_issues": 528,
+            "last_commit": "2026-11-16T14:07:20Z",
+            "open_issues": 525,
             "owner": "HMCL-dev",
             "repo": "HMCL",
-            "stars": 10996,
+            "stars": 11009,
             "topics": [
               "javafx",
               "minecraft",
@@ -2588,7 +2588,7 @@
             "open_issues": 61,
             "owner": "Col-E",
             "repo": "Recaf",
-            "stars": 7472,
+            "stars": 7473,
             "topics": [
               "agent",
               "asm",
@@ -2822,7 +2822,7 @@
             "open_issues": 19,
             "owner": "mirkosertic",
             "repo": "FXDesktopSearch",
-            "stars": 185,
+            "stars": 186,
             "topics": [
               "corenlp",
               "desktop",
@@ -3024,7 +3024,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-16T02:29:46.348Z",
+    "last_updated": "2026-11-17T04:53:53.010Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome JavaFX libraries, books, frameworks, etc...",
@@ -3036,7 +3036,7 @@
       "open_issues": 4,
       "owner": "mhrimaz",
       "repo": "AwesomeJavaFX",
-      "stars": 3379,
+      "stars": 3378,
       "topics": [
         "graphics",
         "java",
