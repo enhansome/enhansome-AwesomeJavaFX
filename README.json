@@ -43,7 +43,7 @@
             "language": "Java",
             "license": "GPL-3.0",
             "last_commit": "2026-11-20T09:37:48Z",
-            "open_issues": 33,
+            "open_issues": 34,
             "owner": "qupath",
             "repo": "qupath",
             "stars": 1478,
@@ -81,10 +81,10 @@
             "language": "Java",
             "license": "MIT",
             "last_commit": "2026-09-28T10:35:14Z",
-            "open_issues": 18,
+            "open_issues": 19,
             "owner": "mkpaz",
             "repo": "atlantafx",
-            "stars": 1471,
+            "stars": 1473,
             "topics": [
               "controls",
               "css",
@@ -141,7 +141,7 @@
             "open_issues": 109,
             "owner": "FXMisc",
             "repo": "RichTextFX",
-            "stars": 1343,
+            "stars": 1342,
             "topics": [
               "java",
               "javafx",
@@ -521,7 +521,7 @@
             "open_issues": 3,
             "owner": "tanhuang2016",
             "repo": "RedisFX",
-            "stars": 517,
+            "stars": 518,
             "topics": [
               "gui",
               "java",
@@ -2282,7 +2282,7 @@
             "open_issues": 97,
             "owner": "sialcasa",
             "repo": "mvvmFX",
-            "stars": 522,
+            "stars": 523,
             "topics": []
           },
           "first_seen": "2026-08-28T06:26:18.132Z"
@@ -2559,11 +2559,11 @@
             "id": 37844001,
             "language": "Java",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-20T15:49:53Z",
-            "open_issues": 535,
+            "last_commit": "2026-11-21T12:48:27Z",
+            "open_issues": 538,
             "owner": "HMCL-dev",
             "repo": "HMCL",
-            "stars": 11020,
+            "stars": 11036,
             "topics": [
               "javafx",
               "minecraft",
@@ -2751,8 +2751,8 @@
             "id": 18281390,
             "language": "Java",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-18T00:24:16Z",
-            "open_issues": 5,
+            "last_commit": "2026-11-22T00:26:59Z",
+            "open_issues": 3,
             "owner": "brunoborges",
             "repo": "fx2048",
             "stars": 294,
@@ -3024,7 +3024,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-21T03:38:53.780Z",
+    "last_updated": "2026-11-22T02:45:19.779Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome JavaFX libraries, books, frameworks, etc...",
