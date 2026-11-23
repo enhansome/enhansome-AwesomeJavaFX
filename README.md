@@ -23,7 +23,7 @@ A curated list of awesome JavaFX frameworks, libraries, books etc... .
 
 * [TilesFX](https://github.com/HanSolo/tilesfx) ⭐ 1,513 | 🐛 23 | 🌐 Java | 📅 2024-10-28 - A JavaFX library containing tiles for Dashboards.
 * [QuPath](https://github.com/qupath/qupath) ⭐ 1,478 | 🐛 34 | 🌐 Java | 📅 2026-11-20 - Open source software for bioimage analysis.
-* [AtlantaFX](https://github.com/mkpaz/atlantafx) ⭐ 1,473 | 🐛 19 | 🌐 Java | 📅 2026-09-28 - Modern JavaFX CSS theme collection with additional controls.
+* [AtlantaFX](https://github.com/mkpaz/atlantafx) ⭐ 1,474 | 🐛 19 | 🌐 Java | 📅 2026-09-28 - Modern JavaFX CSS theme collection with additional controls.
 * [MaterialFX](https://github.com/palexdev/MaterialFX) ⭐ 1,434 | 🐛 26 | 🌐 Java | 📅 2026-10-14 - A new well documented and actively developed library which brings material design components to JavaFX and much more.
 * [RichTextFX](https://github.com/TomasMikula/RichTextFX) ⭐ 1,342 | 🐛 109 | 🌐 Java | 📅 2026-11-10 - Rich-text area for JavaFX.
 * [BootstrapFX](https://github.com/aalmiray/bootstrapfx/) ⭐ 1,048 | 🐛 11 | 🌐 Java | 📅 2021-05-06 - BootstrapFX is a partial port of Twitter Bootstrap for JavaFX.
@@ -40,7 +40,7 @@ A curated list of awesome JavaFX frameworks, libraries, books etc... .
 * [Getdown](https://github.com/threerings/getdown) ⭐ 527 | 🐛 49 | 🌐 Java | 📅 2026-11-06 - Getdown is a system for deploying Java applications to end-user computers, as well as keeping those applications up to date.
 * [RxJavaFX: JavaFX bindings for RxJava](https://github.com/ReactiveX/RxJavaFX) ⭐ 523 | 🐛 18 | 🌐 Java | 📅 2021-09-09 - RxJavaFX is a simple API to convert JavaFX events into RxJava Observables and vice versa. It also has a scheduler to safely move emissions to the JavaFX Event Dispatch Thread.
 * [AnimateFX](https://github.com/Typhon0/AnimateFX) ⭐ 520 | 🐛 1 | 🌐 Java | 📅 2026-05-29 - A JavaFX library containing ready-to-use animations.
-* [RedisDesktopManagerFX](https://github.com/tanhuang2016/RedisDesktopManagerFX) ⭐ 518 | 🐛 3 | 🌐 Java | 📅 2026-06-27 - RedisDesktopManagerFX is a simple Redis GUI created by JavaFX.
+* [RedisDesktopManagerFX](https://github.com/tanhuang2016/RedisDesktopManagerFX) ⭐ 517 | 🐛 3 | 🌐 Java | 📅 2026-06-27 - RedisDesktopManagerFX is a simple Redis GUI created by JavaFX.
 * [Maven jpackage Template](https://github.com/wiverson/maven-jpackage-template) ⭐ 387 | 🐛 10 | 🌐 Java | 📅 2022-10-11 - GitHub template. Use Maven, jlink and jpackage to produce JavaFX macOS, Windows and Linux installers via GitHub Actions.
 * [ReactFX](https://github.com/TomasMikula/ReactFX) ⭐ 382 | 🐛 25 | 🌐 Java | 📅 2025-08-07 - Reactive event streams, observable values and more for JavaFX.
 * [FXTrayIcon](https://github.com/dustinkredmond/FXTrayIcon) ⭐ 367 | 🐛 1 | 🌐 Java | 📅 2026-07-09 - System TrayIcon implementation for JavaFX that allows developers to use native JavaFX MenuItems and not have to worry with AWT or Swing.
@@ -52,7 +52,7 @@ A curated list of awesome JavaFX frameworks, libraries, books etc... .
 * [AnchorFX](https://github.com/alexbodogit/AnchorFX) ⭐ 210 | 🐛 23 | 🌐 Java | 📅 2019-01-24 - Docking framework for JavaFX platform.
 * [Flowless](https://github.com/TomasMikula/Flowless) ⭐ 206 | 🐛 22 | 🌐 Java | 📅 2025-08-15 - Efficient VirtualFlow for JavaFX.
 * [CustomStage](https://github.com/Oshan96/CustomStage) ⭐ 205 | 🐛 8 | 🌐 Java | 📅 2021-10-17 - CustomStage is a fully customizable Undecorated JavaFX stage (window) with amazing features.
-* [graph editor](https://github.com/eckig/graph-editor) ⭐ 203 | 🐛 0 | 🌐 Java | 📅 2026-11-04 - A library for creating and editing graph-like diagrams in JavaFX.
+* [graph editor](https://github.com/eckig/graph-editor) ⭐ 203 | 🐛 2 | 🌐 Java | 📅 2026-11-23 - A library for creating and editing graph-like diagrams in JavaFX.
 * [JCSG](https://github.com/miho/JCSG) ⭐ 197 | 🐛 23 | 🌐 Java | 📅 2023-06-03 - Java implementation of BSP based CSG (Constructive Solid Geometry).
 * [Animated](https://github.com/iAmGio/animated) ⭐ 195 | 🐛 1 | 🌐 Java | 📅 2023-10-28 - Implicit animations for JavaFX, inspired by Flutter.
 * [CssFX](https://github.com/McFoggy/cssfx) ⭐ 175 | 🐛 10 | 🌐 Java | 📅 2023-03-16 - Enhances developer productivity by providing JavaFX CSS reloading functionnality in a running application. Usable as standalone library or integrated in [Scenic View](#ScenicView).
@@ -72,7 +72,7 @@ A curated list of awesome JavaFX frameworks, libraries, books etc... .
 * [Advanced-Bindings for JavaFX (8)](https://github.com/lestard/advanced-bindings) ⭐ 69 | 🐛 2 | 🌐 Java | 📅 2020-04-25 - advanced-bindings is a collection of useful helpers and custom binding implementations like java.lang.Math or Switch-Case as JavaFX binding.
 * [Wordagam](https://github.com/gravetii/wordagam) ⭐ 69 | 🐛 1 | 🌐 Kotlin | 📅 2025-01-18 - A fun little word game built with openjfx.
 * [GestureFX](https://github.com/tom91136/GestureFX) ⭐ 67 | 🐛 2 | 🌐 Java | 📅 2026-04-10 - A lightweight pinch-to-zoom pane for JavaFX.
-* [JavaFX DataViewer](https://github.com/jasrodis/javafx-dataviewer-wrapper) ⭐ 66 | 🐛 6 | 🌐 Java | 📅 2018-10-23 - JavaFX Charts library. Create Charts in JavaFX using the plotly.js library.
+* [JavaFX DataViewer](https://github.com/jasrodis/javafx-dataviewer-wrapper) ⭐ 67 | 🐛 6 | 🌐 Java | 📅 2018-10-23 - JavaFX Charts library. Create Charts in JavaFX using the plotly.js library.
 * [JediTermFX](https://github.com/techsenger/jeditermfx) ⭐ 66 | 🐛 7 | 🌐 Java | 📅 2026-09-22 - Terminal Emulator for JavaFX.
 * [JFXScad](https://github.com/miho/JFXScad) ⭐ 65 | 🐛 4 | 🌐 Java | 📅 2017-10-27 - JavaFX 3D Printing IDE based on JCSG.
 * [WellBehavedFX](https://github.com/TomasMikula/WellBehavedFX) ⭐ 63 | 🐛 4 | 🌐 Java | 📅 2018-07-16 - Composable event handlers and skin scaffolding for JavaFX controls.
@@ -294,8 +294,8 @@ A curated list of awesome JavaFX frameworks, libraries, books etc... .
 
 *Real World Examples of JavaFX and Applications*
 
-* [Hello Minecraft! Launcher](https://github.com/huanghongxun/HMCL) ⭐ 11,036 | 🐛 538 | 🌐 Java | 📅 2026-11-21 - HMCL (Hello Minecraft! Launcher) is a cross-platform Minecraft launcher which supports Mod management, game customizing, auto installing (Forge, LiteLoader and OptiFine), modpack creating, UI customizing and so on. HMCL was developed based on Swing and migrated to JavaFX in v3.
-* [Recaf](https://github.com/Col-E/Recaf) ⭐ 7,481 | 🐛 63 | 🌐 Java | 📅 2026-11-02 - An easy to use modern Java bytecode editor.
+* [Hello Minecraft! Launcher](https://github.com/huanghongxun/HMCL) ⭐ 11,047 | 🐛 542 | 🌐 Java | 📅 2026-11-22 - HMCL (Hello Minecraft! Launcher) is a cross-platform Minecraft launcher which supports Mod management, game customizing, auto installing (Forge, LiteLoader and OptiFine), modpack creating, UI customizing and so on. HMCL was developed based on Swing and migrated to JavaFX in v3.
+* [Recaf](https://github.com/Col-E/Recaf) ⭐ 7,482 | 🐛 63 | 🌐 Java | 📅 2026-11-02 - An easy to use modern Java bytecode editor.
 * [PrettyZoo](https://github.com/vran-dev/PrettyZoo) ⚠️ Archived - Pretty nice Zookeeper GUI created by JavaFX & Apache Curator
 * [Everest](https://github.com/RohitAwate/Everest) ⭐ 822 | 🐛 8 | 🌐 Java | 📅 2022-11-16 - Everest (formerly RESTaurant) is an upcoming REST API testing client written in JavaFX. Looks like Postman but writen in Java.
 * [XR3Player](https://github.com/goxr3plus/XR3Player) ⭐ 771 | 🐛 29 | 🌐 Java | 📅 2025-04-28 - XR3Player is an opensource Java/JavaFX Media Player, WebBrowser, Media File Organizer, aiming to be something more than a Media Player.
@@ -329,4 +329,4 @@ Contributions are always welcome!
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-23._
