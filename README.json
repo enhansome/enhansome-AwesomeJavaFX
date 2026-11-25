@@ -42,11 +42,11 @@
             "id": 66772740,
             "language": "Java",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-23T16:14:33Z",
-            "open_issues": 36,
+            "last_commit": "2026-11-24T09:54:11Z",
+            "open_issues": 34,
             "owner": "qupath",
             "repo": "qupath",
-            "stars": 1479,
+            "stars": 1480,
             "topics": [
               "bioimage-analysis",
               "bioimage-informatics",
@@ -232,7 +232,7 @@
             "open_issues": 0,
             "owner": "update4j",
             "repo": "update4j",
-            "stars": 810,
+            "stars": 809,
             "topics": [
               "auto",
               "auto-update",
@@ -2248,8 +2248,8 @@
             "id": 162845532,
             "language": "Clojure",
             "license": "MIT",
-            "last_commit": "2026-10-08T09:29:08Z",
-            "open_issues": 37,
+            "last_commit": "2026-11-24T13:43:23Z",
+            "open_issues": 36,
             "owner": "cljfx",
             "repo": "cljfx",
             "stars": 1107,
@@ -2559,11 +2559,11 @@
             "id": 37844001,
             "language": "Java",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-23T13:07:37Z",
-            "open_issues": 543,
+            "last_commit": "2026-11-24T13:43:16Z",
+            "open_issues": 542,
             "owner": "HMCL-dev",
             "repo": "HMCL",
-            "stars": 11055,
+            "stars": 11061,
             "topics": [
               "javafx",
               "minecraft",
@@ -2588,7 +2588,7 @@
             "open_issues": 63,
             "owner": "Col-E",
             "repo": "Recaf",
-            "stars": 7482,
+            "stars": 7489,
             "topics": [
               "agent",
               "asm",
@@ -2624,7 +2624,7 @@
             "open_issues": 0,
             "owner": "vran-dev",
             "repo": "PrettyZoo",
-            "stars": 3226,
+            "stars": 3225,
             "topics": [
               "gui",
               "java",
@@ -2751,7 +2751,7 @@
             "id": 18281390,
             "language": "Java",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-22T00:26:59Z",
+            "last_commit": "2026-11-25T03:36:41Z",
             "open_issues": 3,
             "owner": "brunoborges",
             "repo": "fx2048",
@@ -2780,7 +2780,7 @@
             "open_issues": 6,
             "owner": "mindolph",
             "repo": "Mindolph",
-            "stars": 204,
+            "stars": 205,
             "topics": [
               "csv",
               "freemind",
@@ -3024,7 +3024,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-24T06:36:12.273Z",
+    "last_updated": "2026-11-25T05:09:33.003Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome JavaFX libraries, books, frameworks, etc...",
@@ -3036,7 +3036,7 @@
       "open_issues": 4,
       "owner": "mhrimaz",
       "repo": "AwesomeJavaFX",
-      "stars": 3377,
+      "stars": 3375,
       "topics": [
         "graphics",
         "java",
