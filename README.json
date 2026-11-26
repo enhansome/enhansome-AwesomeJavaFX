@@ -46,7 +46,7 @@
             "open_issues": 34,
             "owner": "qupath",
             "repo": "qupath",
-            "stars": 1480,
+            "stars": 1479,
             "topics": [
               "bioimage-analysis",
               "bioimage-informatics",
@@ -360,7 +360,7 @@
             "open_issues": 29,
             "owner": "fair-acc",
             "repo": "chart-fx",
-            "stars": 615,
+            "stars": 616,
             "topics": [
               "chart-fx",
               "charting-libraries",
@@ -2559,11 +2559,11 @@
             "id": 37844001,
             "language": "Java",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-24T13:43:16Z",
-            "open_issues": 542,
+            "last_commit": "2026-11-25T16:40:21Z",
+            "open_issues": 543,
             "owner": "HMCL-dev",
             "repo": "HMCL",
-            "stars": 11061,
+            "stars": 11066,
             "topics": [
               "javafx",
               "minecraft",
@@ -2715,11 +2715,11 @@
             "id": 71999295,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-20T15:01:27Z",
+            "last_commit": "2026-11-25T08:21:53Z",
             "open_issues": 11,
             "owner": "binjr",
             "repo": "binjr",
-            "stars": 370,
+            "stars": 371,
             "topics": [
               "analytics",
               "binjr",
@@ -3024,7 +3024,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-25T05:09:33.003Z",
+    "last_updated": "2026-11-26T04:36:55.838Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome JavaFX libraries, books, frameworks, etc...",
