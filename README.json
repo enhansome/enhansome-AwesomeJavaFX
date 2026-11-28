@@ -42,8 +42,8 @@
             "id": 66772740,
             "language": "Java",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-24T09:54:11Z",
-            "open_issues": 35,
+            "last_commit": "2026-11-27T18:56:18Z",
+            "open_issues": 36,
             "owner": "qupath",
             "repo": "qupath",
             "stars": 1478,
@@ -137,7 +137,7 @@
             "id": 13272929,
             "language": "Java",
             "license": "BSD-2-Clause",
-            "last_commit": "2026-11-26T17:33:02Z",
+            "last_commit": "2026-11-27T12:28:28Z",
             "open_issues": 107,
             "owner": "FXMisc",
             "repo": "RichTextFX",
@@ -211,7 +211,7 @@
             "open_issues": 28,
             "owner": "dlsc-software-consulting-gmbh",
             "repo": "CalendarFX",
-            "stars": 862,
+            "stars": 863,
             "topics": []
           },
           "first_seen": "2026-08-28T06:26:18.132Z"
@@ -232,7 +232,7 @@
             "open_issues": 0,
             "owner": "update4j",
             "repo": "update4j",
-            "stars": 809,
+            "stars": 807,
             "topics": [
               "auto",
               "auto-update",
@@ -339,7 +339,7 @@
             "open_issues": 0,
             "owner": "dlsc-software-consulting-gmbh",
             "repo": "GemsFX",
-            "stars": 625,
+            "stars": 626,
             "topics": []
           },
           "first_seen": "2026-08-28T06:26:18.132Z"
@@ -1575,7 +1575,7 @@
             "id": 748899028,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-27T03:44:03Z",
+            "last_commit": "2026-11-27T22:51:52Z",
             "open_issues": 7,
             "owner": "quarkiverse",
             "repo": "quarkus-fx",
@@ -2559,11 +2559,11 @@
             "id": 37844001,
             "language": "Java",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-26T14:08:37Z",
-            "open_issues": 539,
+            "last_commit": "2026-11-27T13:36:21Z",
+            "open_issues": 544,
             "owner": "HMCL-dev",
             "repo": "HMCL",
-            "stars": 11078,
+            "stars": 11088,
             "topics": [
               "javafx",
               "minecraft",
@@ -2588,7 +2588,7 @@
             "open_issues": 60,
             "owner": "Col-E",
             "repo": "Recaf",
-            "stars": 7489,
+            "stars": 7491,
             "topics": [
               "agent",
               "asm",
@@ -2683,7 +2683,7 @@
             "open_issues": 29,
             "owner": "goxr3plus",
             "repo": "XR3Player",
-            "stars": 771,
+            "stars": 772,
             "topics": [
               "audio-formats",
               "audio-player",
@@ -3024,7 +3024,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-27T04:39:33.076Z",
+    "last_updated": "2026-11-28T04:25:08.041Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome JavaFX libraries, books, frameworks, etc...",
